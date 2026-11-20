@@ -5,9 +5,7 @@ abstract: "Scripts de deduplicação, pré-classificação por expressões regul
 type: software
 version: "1.0.1"
 date-released: "2026-11-20"
-license:
-  - "MIT"
-  - "CC-BY-4.0"
+license: "MIT"
 authors:
   - family-names: "Costa"
     given-names: "Rodrigo Salgado da"
@@ -21,4 +19,3 @@ keywords:
   - "literature review"
   - "reproducibility"
 repository-code: "https://github.com/salgadu/tcc-triagem-monolitos-microsservicos"
-doi: "10.5281/zenodo.24387521"
