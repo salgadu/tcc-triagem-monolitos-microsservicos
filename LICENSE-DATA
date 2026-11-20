@@ -1,0 +1,39 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Rodrigo Salgado da Costa
+
+Os dados derivados do diretório `dados/` deste repositório
+(`dados/triagem.csv`, `dados/extracao_11_estudos.csv` e
+`dados/amostra_falsos_negativos.csv`) estão licenciados sob a licença
+Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
+
+The derived data in the `dados/` directory of this repository are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Resumo da licença (não substitui o texto legal):
+  Você pode compartilhar (copiar e redistribuir o material em qualquer meio ou
+  formato) e adaptar (remixar, transformar e criar a partir do material) para
+  qualquer fim, inclusive comercial, desde que atribua o devido crédito ao
+  autor, forneça um link para a licença e indique se foram feitas alterações.
+  Não é permitido aplicar termos legais ou medidas tecnológicas que restrinjam
+  outras pessoas de fazer algo que a licença permita.
+
+Texto legal completo (legal code):
+  https://creativecommons.org/licenses/by/4.0/legalcode
+  https://creativecommons.org/licenses/by/4.0/legalcode.pt
+
+Atribuição sugerida:
+  COSTA, Rodrigo Salgado da. Triagem dos registros da busca: scripts e dados
+  do TCC. Versão 1.0. Zenodo, 2026. Licença CC BY 4.0.
+
+Escopo e exclusões:
+  - Esta licença cobre apenas os dados derivados produzidos pelo autor
+    (categorias de pré-triagem, decisões manuais, motivos, identificadores,
+    amostra e planilha de extração). Títulos, anos e DOIs são metadados
+    bibliográficos factuais dos respectivos registros.
+  - Resumos, exportações brutas das bases (Scopus, IEEE Xplore, ACM Digital
+    Library, SBC OpenLib e arXiv) e textos dos estudos NÃO são distribuídos
+    neste repositório e NÃO são cobertos por esta licença; os direitos
+    pertencem às respectivas editoras e bases.
+  - O código-fonte em `scripts/` é licenciado separadamente sob a Licença MIT
+    (arquivo LICENSE).
