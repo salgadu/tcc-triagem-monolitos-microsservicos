@@ -69,7 +69,7 @@ As etapas 00 a 03 exigem as exportações em `dados_brutos/`; os arquivos interm
 - **Ausência de termos de resiliência na pré-triagem:** a expressão regular não inclui termos de resiliência; 19 títulos contendo `resilien`, `fault toler`, `chaos` ou `circuit` foram classificados como `"Fora do tema"`.
 - **Restrição linguística do regex:** o script busca exclusivamente o termo `"monolith"` em inglês, podendo omitir registros redigidos apenas em português ou com terminologia alternativa.
 - **Erros medidos na categoria 2:** 5 dos 31 registros atribuídos à categoria 2 apresentaram classificação incorreta.
-- **Estimativa de falsos negativos:** avaliada em amostra aleatória de 50 dos 489 registros excluídos (`random.seed(42)`), registrada em `dados/amostra_falsos_negativos.csv` (o TCC reporta 6 registros claramente pertinentes e 4 limítrofes, ou seja, de 12% a 20% de falsos negativos, o que equivale a 59 a 98 dos 489 registros excluídos; as decisões item a item estão pendentes de registro no CSV).
+- **Estimativa de falsos negativos:** avaliada em amostra aleatória de 50 dos 489 registros excluídos (`random.seed(42)`), registrada em `dados/amostra_falsos_negativos.csv` com a decisão e a justificativa de cada item: 6 registros claramente pertinentes e 4 limítrofes, ou seja, de 12% a 20% de falsos negativos, o que equivale a cerca de 59 a 98 dos 489 registros excluídos (IC 95% de Wilson: 5,6%–23,8% para os claramente pertinentes e 11,2%–33,0% somando os limítrofes; cálculo em `scripts/06_resultado_amostra.py`).
 - **Cobertura das bases:** a busca na ACM restringiu-se à *Full-Text Collection*; Scopus e IEEE não tiveram filtro de tipo de publicação; 13 registros da SOL não possuíam resumo disponível na exportação.
 
 ## Licenças
