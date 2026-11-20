@@ -3,9 +3,11 @@ message: "Se você utilizar os scripts ou os dados derivados deste repositório,
 title: "Triagem dos registros da busca: scripts e dados do TCC"
 abstract: "Scripts de deduplicação, pré-classificação por expressões regulares e amostragem de falsos negativos, acompanhados das planilhas sanitizadas de triagem e de extração de 11 estudos do Trabalho de Conclusão de Curso sobre modernização de arquiteturas de software (migração de monólitos para microsserviços baseada em resiliência e desempenho)."
 type: software
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-20"
-license: "MIT"
+license:
+  - "MIT"
+  - "CC-BY-4.0"
 authors:
   - family-names: "Costa"
     given-names: "Rodrigo Salgado da"
@@ -18,6 +20,5 @@ keywords:
   - "performance"
   - "literature review"
   - "reproducibility"
-# Atualize os campos abaixo após criar o repositório no GitHub e arquivar a release v1.0.0 no Zenodo:
 repository-code: "https://github.com/salgadu/tcc-triagem-monolitos-microsservicos"
-doi: "10.5281/zenodo.24387522"
+doi: "10.5281/zenodo.24387521"
