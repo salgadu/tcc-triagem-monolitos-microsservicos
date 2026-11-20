@@ -1,0 +1,17 @@
+# Exportações brutas e intermediários (restrição de licença das bases e editoras)
+dados_brutos/*
+!dados_brutos/.gitkeep
+
+# Pastas da versão anterior do pacote
+entrada/
+saida/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
