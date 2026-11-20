@@ -19,5 +19,5 @@ keywords:
   - "literature review"
   - "reproducibility"
 # Atualize os campos abaixo após criar o repositório no GitHub e arquivar a release v1.0.0 no Zenodo:
-repository-code: "https://github.com/SEU_USUARIO/SEU_REPOSITORIO"
-doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/salgadu/tcc-triagem-monolitos-microsservicos"
+doi: "10.5281/zenodo.24387522"

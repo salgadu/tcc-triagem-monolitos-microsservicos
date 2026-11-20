@@ -79,9 +79,11 @@ As etapas 00 a 03 exigem as exportações em `dados_brutos/`; os arquivos interm
 
 ## Como citar
 
-Em formato ABNT (substituir `XXXXXXX`, URL e data de acesso após o arquivamento da versão `v1.0.0` no Zenodo):
+Em formato ABNT (versão `v1.0.0`, arquivada no Zenodo; substitua a data de acesso pela data da sua consulta):
 
-> COSTA, Rodrigo Salgado da. **Triagem dos registros da busca**: scripts e dados do TCC. Versão 1.0. [*S. l.*]: Zenodo, 2026. DOI: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX). Disponível em: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX). Acesso em: DD mmm. 2026.
+> COSTA, Rodrigo Salgado da. **Triagem dos registros da busca**: scripts e dados do TCC. Versão 1.0. [*S. l.*]: Zenodo, 2026. DOI: [https://doi.org/10.5281/zenodo.24387522](https://doi.org/10.5281/zenodo.24387522). Disponível em: [https://doi.org/10.5281/zenodo.24387522](https://doi.org/10.5281/zenodo.24387522). Acesso em: 20 nov. 2026.
+
+Para citar sempre a versão mais recente, use o DOI de conceito [10.5281/zenodo.24387521](https://doi.org/10.5281/zenodo.24387521). Código-fonte: <https://github.com/salgadu/tcc-triagem-monolitos-microsservicos>.
 
 No corpo do texto do TCC (seção 3.5 ou 3.6):
 
