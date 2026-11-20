@@ -1,0 +1,879 @@
+ID,Pré-triagem (regex),Sua decisão,Motivo da decisão,Título,Ano,Bases,Estudo do TCC,DOI
+R001,1 No tema: comparação ou desempenho,,,A Performance and Scalability Evaluation of Monolithic (Django) vs. Microservice (FastAPI) Architectures for Asynchronous API Workloads in Python,2026,Scopus + IEEE,,10.1109/icecco67619.2026.11488798
+R002,1 No tema: comparação ou desempenho,,,Assessing the Impact of Asynchronous Communication on Resilience and Robustness: A Comparative Study of Microservice and Monolithic Architectures,2026,Scopus,,10.1007/978-3-032-04403-7_16
+R003,1 No tema: comparação ou desempenho,,,Breaking the Monolith: A Data-First Strategy for Enterprise Microservices Migration with Measured Improvements in Scalability and Resilience,2026,Scopus + IEEE,,10.1109/icaic67076.2026.11395697
+R004,1 No tema: comparação ou desempenho,,,Evaluating Middleware Performance in the Transition from Monolithic to Microservices Architecture for Banking Applications,2026,Scopus,,10.3390/electronics15010221
+R005,1 No tema: comparação ou desempenho,,,From Monolithic Middleware to Cloud-Native Microservices: A Performance-Driven Modernization Study,2026,Scopus + IEEE,,10.1109/isdfs69419.2026.11459056
+R006,1 No tema: comparação ou desempenho,,,The evolution of cloud architectures: An experimental comparison of monolithic and serverless approaches based on AWS,2026,Scopus,,
+R007,1 No tema: comparação ou desempenho,,,A Comparative Study of Automatic Migration from Monolith App to Microservices,2025,Scopus + IEEE,,10.1109/esai67033.2025.11438829
+R008,1 No tema: comparação ou desempenho,,,Comparative Analysis between Monolithic and Microservice Architecture Based on Web Streaming Applications,2025,Scopus + IEEE,,10.1109/ecce64574.2025.11014023
+R009,1 No tema: comparação ou desempenho,,,Performance Comparison between a Monolithic and a Microservice Application,2025,Scopus,,
+R010,1 No tema: comparação ou desempenho,,,Performance Comparison of Monolithic and Microservices Architectures in Handling High-Volume Transactions,2025,Scopus,,10.29207/resti.v9i3.6183
+R011,1 No tema: comparação ou desempenho,,,Performance Evaluation of Monolithic and Microservice Architectures for Natural Language Processing in Command and Control Applications,2025,Scopus + IEEE,,10.1109/access.2025.3604775
+R012,1 No tema: comparação ou desempenho,,,Transforming Monolithic into Scalable Hybrid Microservices for Enterprise Resource Planning,2025,Scopus + IEEE,,10.1109/isitia66279.2025.11137558
+R013,1 No tema: comparação ou desempenho,,,Comparison of scalability and performance in Microservices and Monolithic Architectures,2024,Scopus + IEEE,,10.1109/informatics62280.2024.10900892
+R014,1 No tema: comparação ou desempenho,,,Evaluation Metrics for the Migration of Monolithic Applications to Microservices Applications,2024,Scopus,,10.1063/5.0212932
+R015,1 No tema: comparação ou desempenho,,,"Is it Worth Migrating a Monolith to Microservices? An Experience Report on Performance, Availability and Energy Usage",2024,Scopus + IEEE,,10.1109/icws62655.2024.00112
+R016,1 No tema: comparação ou desempenho,,,Migration aspects from monolith to distributed systems using software code build and deployment time and latency perspective,2024,Scopus,,10.12928/telkomnika.v22i4.25655
+R017,1 No tema: comparação ou desempenho,,,"RETRACTED ARTICLE: High-performance computing-enabled probabilistic framework for migration from monolithic to microservices architecture using genetic algorithms (Soft Computing, (2024))",2024,Scopus,,10.1007/s00500-023-09336-w
+R018,1 No tema: comparação ou desempenho,,,Stepwise migration of a monolith to a microservice architecture: Performance and migration effort evaluation,2024,Scopus,,10.1016/j.peva.2024.102411
+R019,1 No tema: comparação ou desempenho,,,"Comparative Analysis of Monolith, Microservice API Gateway and Microservice Federated Gateway on Web-based application using GraphQL API",2023,Scopus + IEEE,,10.1109/eecsi59885.2023.10295809
+R020,1 No tema: comparação ou desempenho,,,Developer's Cognitive Effort Maintaining Monoliths vs. Microservices-An Eye-Tracking Study,2023,Scopus + IEEE,,10.1109/apsec60848.2023.00044
+R021,1 No tema: comparação ou desempenho,,,"Differences in performance, scalability, and cost of using microservice and monolithic architecture",2023,Scopus + ACM,,10.1145/3555776.3578725
+R022,1 No tema: comparação ou desempenho,,,Evaluation of a Multitenant SaaS Using Monolithic and Microservice Architectures,2023,Scopus,,10.1007/s42979-022-01610-2
+R023,1 No tema: comparação ou desempenho,,,Performance Evaluation of Monolithic and Microservice Architecture for an E-commerce Startup,2023,Scopus + IEEE,,10.1109/iccit60459.2023.10441241
+R024,1 No tema: comparação ou desempenho,,,Qualitative and quantitative comparison of Spring Cloud and Kubernetes in migrating from a monolithic to a microservice architecture,2023,Scopus,,10.1007/s11761-023-00364-w
+R025,1 No tema: comparação ou desempenho,,,Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation,2022,Scopus + IEEE,E6,10.1109/access.2022.3152803
+R026,1 No tema: comparação ou desempenho,,,Stepwise Migration of a Monolith to a Microservices Architecture: Performance and Migration Effort Evaluation,2022,arXiv,,arXiv:2201.07226
+R027,1 No tema: comparação ou desempenho,,,Performance Comparison between Monolith and Microservice Using Docker and Kubernetes,2021,Scopus,,10.7763/ijcte.2021.v13.1295
+R028,1 No tema: comparação ou desempenho,,,Performance comparison of monolith and microservices based applications,2021,Scopus,,
+R029,1 No tema: comparação ou desempenho,,,From monolithic systems to microservices: A comparative study of performance,2020,Scopus,E5,10.3390/app10175797
+R030,1 No tema: comparação ou desempenho,,,The Comparison of Microservice and Monolithic Architecture,2020,Scopus + IEEE,,10.1109/memstech49584.2020.9109514
+R031,1 No tema: comparação ou desempenho,,,Automatic performance monitoring and regression testing during the transition from monolith to microservices,2019,Scopus + IEEE,,10.1109/issrew.2019.00067
+R032,1 No tema: comparação ou desempenho,,,Implementation of a web-based audience response system as microservice application vs. monolithic application,2019,Scopus,,10.33965/icwi2019_201913l004
+R033,1 No tema: comparação ou desempenho,,,Performance and resilience to failures of an cloud-based application: Monolithic and microservices-based architectures compared,2019,Scopus,,10.1007/978-3-030-28957-7_37
+R034,1 No tema: comparação ou desempenho,,,Accelerating performance in critical topology analysis of distribution management system process by switching from monolithic to microservices,2018,Scopus,,
+R035,1 No tema: comparação ou desempenho,,,Performance evaluation in the migration process from a monolithic application to microservices; [Evaluación del rendimiento en el proceso de migración de una aplicación monolítica a microservicios],2018,Scopus + IEEE,,10.23919/cisti.2018.8399148
+R036,1 No tema: comparação ou desempenho,,,"Cost comparison of running web applications in the cloud using monolithic, microservice, and AWS Lambda architectures",2017,Scopus,,10.1007/s11761-017-0208-y
+R037,1 No tema: comparação ou desempenho,,,Sustaining runtime performance while incrementally modernizing transactional monolithic software towards microservices,2016,Scopus + ACM,,10.1145/2851553.2892039
+R038,1 No tema: comparação ou desempenho,,,Evaluating the monolithic and the microservice architecture pattern to deploy web applications in the cloud,2015,Scopus + IEEE,,10.1109/columbiancc.2015.7333476
+R039,2 No tema: estudo secundário,,,A Systematic Literature Review on AI-Driven Migration From Monolithic Architectures to Microservices,2026,Scopus + IEEE,,10.1109/access.2026.3728841
+R040,2 No tema: estudo secundário,,,Migration Strategies from Monolithic Applications to Cloud-Native Applications: A Systematic Review; [Estrategias de Migración de Aplicaciones Monolíticas a Aplicaciones Nativas de la Nube: Una Revisión Sistemática],2026,Scopus,,10.33333/rp.vol57n1.10
+R041,2 No tema: estudo secundário,,,A Systematic Literature Review of Machine Learning Approaches for Migrating Monolithic Systems to Microservices,2025,Scopus + IEEE + arXiv,,10.1109/tse.2025.3603897
+R042,2 No tema: estudo secundário,,,Challenges and Mitigation Strategies in Migrating from Monolithic Systems to Microservices: a Systematic Literature Review,2025,Scopus + IEEE,,10.1109/icts67612.2025.11369715
+R043,2 No tema: estudo secundário,,,Decomposition Methodologies of Relational Databases for Migration from Systems Monolithic to Microservices: A Systematic Literature Mapping,2025,Scopus,,10.1007/978-3-031-90310-6_13
+R044,2 No tema: estudo secundário,,,Migration of monolithic systems to microservices: A systematic mapping study,2025,Scopus,,10.1016/j.infsof.2024.107590
+R045,2 No tema: estudo secundário,,,Review of Microservice Decomposition Methods,2025,Scopus + IEEE,,10.1109/iccect64621.2025.11339597
+R046,2 No tema: estudo secundário,,,Semantic Approaches to Microservice Identification: A Systematic Literature Review,2025,Scopus + IEEE,,10.1109/access.2025.3618990
+R047,2 No tema: estudo secundário,,,The Ontology-Based Mapping of Microservice Identification Approaches: A Systematic Study of Migration Strategies from Monolithic to Microservice Architectures,2025,Scopus,,10.3390/computers14040133
+R048,2 No tema: estudo secundário,,,A systematic multi attributes fuzzy-based decision-making to migrate the monolithic paradigm electronic governance applications to new software architecture,2024,Scopus,,10.1002/cpe.8294
+R049,2 No tema: estudo secundário,,,ASSESSING THE QUALITY OF MICROSERVICE AND MONOLITHIC-BASED ARCHITECTURES: A SYSTEMATIC LITERATURE REVIEW,2024,Scopus,,10.31181/oresta/070220
+R050,2 No tema: estudo secundário,,,Evolution of Microservices Identification in Monolith Decomposition: A Systematic Review,2024,Scopus + IEEE,,10.1109/access.2024.3365079
+R051,2 No tema: estudo secundário,,,From Microservice to Monolith: A Multivocal Literature Review †,2024,Scopus,,10.3390/electronics13081452
+R052,2 No tema: estudo secundário,,,From Monolith to Microservices: A Systematic Literature Survey,2024,Scopus + IEEE,,10.1109/icdds62937.2024.10910708
+R053,2 No tema: estudo secundário,,,How Does Migration to Microservices Happen? A Survey of the Finnish Software Industry,2024,Scopus,,
+R054,2 No tema: estudo secundário,,,Identifying Readiness Criteria for Architecture Migration from Monolithic to Microservices: A Literature Review,2024,Scopus + IEEE,,10.1109/iciss62896.2024.10751305
+R055,2 No tema: estudo secundário,,,Migrating from Monolithic to Microservice Architectures: A Systematic Literature Review,2024,Scopus,,10.14569/ijacsa.2024.0151013
+R056,2 No tema: estudo secundário,,,Migration of Monolithic Systems to Microservices using AI: A Systematic Mapping Study,2024,Scopus + SOL,E9,
+R057,2 No tema: estudo secundário,,,Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art,2024,Scopus,,10.1007/978-3-031-66326-0_12
+R058,2 No tema: estudo secundário,,,"A Survey on Microservices Architecture: Principles, Patterns and Migration Challenges",2023,Scopus + IEEE,,10.1109/access.2023.3305687
+R059,2 No tema: estudo secundário,,,A systematic mapping study: The new age of software architecture from monolithic to microservice architecture—awareness and challenges,2023,Scopus,,10.1002/cae.22586
+R060,2 No tema: estudo secundário,,,Decomposition of Monolith Applications Into Microservices Architectures: A Systematic Review,2023,Scopus + IEEE,E8,10.1109/tse.2023.3287297
+R061,2 No tema: estudo secundário,,,Legacy systems to cloud migration: A review from the architectural perspective,2023,Scopus,,10.1016/j.jss.2023.111702
+R062,2 No tema: estudo secundário,,,"Migration from Monolithic Applications to Microservices: A Systematic Literature Mapping on Approaches, Challenges, and Anti-patterns",2023,Scopus,,
+R063,2 No tema: estudo secundário,,,A Systematic Literature Review on Migration to Microservices: A Quality Attributes perspective,2022,Scopus + IEEE,,10.1109/icsa-c54293.2022.00030
+R064,2 No tema: estudo secundário,,,Re-engineering legacy systems as microservices: An industrial survey of criteria to deal with modularity and variability of features,2022,Scopus,,10.1007/978-3-031-11686-5_19
+R065,2 No tema: estudo secundário,,,A Systematic Framework of Application Modernization to Microservice based Architecture,2021,Scopus + IEEE,,10.1109/iceet53442.2021.9659783
+R066,2 No tema: estudo secundário,,,A Qualitative Literature Review on Microservices Identification Approaches,2020,Scopus,,10.1007/978-3-030-64846-6_9
+R067,2 No tema: estudo secundário,,,Migration of Monolithic Applications Towards Microservices Under the Vision of the Information Hiding Principle: A Systematic Mapping Study,2020,Scopus,,10.1007/978-3-030-32022-5_9
+R068,2 No tema: estudo secundário,,,Migrating from monolithic architecture to microservices: A Rapid Review,2019,Scopus + IEEE,,10.1109/sccc49216.2019.8966423
+R069,2 No tema: estudo secundário,,,A Comparative Review of Microservices and Monolithic Architectures,2018,Scopus + IEEE,E3,10.1109/cinti.2018.8928192
+R070,3 No tema: experiência ou estudo de caso,,,A Skill-Mediated LLM Workflow for Migrating a.NET Monolith to Cloud-Deployed Microservices: A Controlled Case Study,2026,Scopus + IEEE,,10.1109/access.2026.3712587
+R071,3 No tema: experiência ou estudo de caso,,,Microservices by Optimization and Experience: Lessons from a Large-Scale Industrial Migration,2026,Scopus + IEEE,,10.1109/saner67736.2026.00061
+R072,3 No tema: experiência ou estudo de caso,,,From Monolith to Microservices: Modernizing a National E-Government Platform: A Case Study of the Moroccan Civil Registry System,2025,Scopus + IEEE,,10.1109/cist65886.2025.11224226
+R073,3 No tema: experiência ou estudo de caso,,,Modernizing Legacy Software: A Case Study on Microservices Migration Using AWS,2025,Scopus + IEEE,,10.1109/inista68122.2025.11249594
+R074,3 No tema: experiência ou estudo de caso,,,"Evolving Software Architectures from Monolithic Systems to Resilient Microservices: Best Practices, Challenges and Future Trends",2024,Scopus,,10.14569/ijacsa.2024.0150901
+R075,3 No tema: experiência ou estudo de caso,,,On the Challenges of Migrating to Microservices Architectures for Better Cloud Solutions,2024,Scopus,,10.1007/978-3-031-78698-3_12
+R076,3 No tema: experiência ou estudo de caso,,,Strategies for Mitigating Microservice Anti-Patterns in the Pre-Migration of Monolithic Legacy Systems,2024,SOL,,
+R077,3 No tema: experiência ou estudo de caso,,,Change Data capture for migration to event-driven microservices Case Study,2023,Scopus + IEEE,,10.1109/csit61576.2023.10324262
+R078,3 No tema: experiência ou estudo de caso,,,Dealing with Anti-Patterns When Migrating from Monoliths to Microservices: Challenges and Research Directions,2023,Scopus + IEEE,,10.1109/cloudtech58737.2023.10366131
+R079,3 No tema: experiência ou estudo de caso,,,Migrating to a microservice architecture: benefits and challenges,2023,Scopus + IEEE,,10.23919/mipro57284.2023.10159894
+R080,3 No tema: experiência ou estudo de caso,,,An Approach to Migrate a Monolith Database into Multi‐Model Polyglot Persistence Based on Microservice Architecture: A Case Study for Mainframe Database,2022,Scopus,,10.3390/app12126189
+R081,3 No tema: experiência ou estudo de caso,,,Adopting Microservices for Industrial Control Systems: A Five Step Migration Path,2021,Scopus + IEEE,,10.1109/etfa45728.2021.9613622
+R082,3 No tema: experiência ou estudo de caso,,,Microservice Remodularisation of Monolithic Enterprise Systems for Embedding in Industrial IoT Networks,2021,Scopus,,10.1007/978-3-030-79382-1_26
+R083,3 No tema: experiência ou estudo de caso,,,Monoliths to microservices-Migration Problems and Challenges: A SMS,2021,Scopus + IEEE,,10.1109/ici2st51859.2021.00027
+R084,3 No tema: experiência ou estudo de caso,,,Microservice Migration Using Strangler Fig Pattern: A Case Study on the Green Button System,2020,Scopus + IEEE,,10.1109/ics51289.2020.00107
+R085,3 No tema: experiência ou estudo de caso,,,Migration of monolith applications to miniservices: A case study from the telecom domain,2020,Scopus,,
+R086,3 No tema: experiência ou estudo de caso,,,'Functional-First' Recommendations for Beneficial Microservices Migration and Integration Lessons Learned from an Industrial Experience,2019,Scopus + IEEE,,10.1109/icsa-c.2019.00040
+R087,3 No tema: experiência ou estudo de caso,,,Tool support for the migration to microservice architecture: An industrial case study,2019,Scopus,,10.1007/978-3-030-29983-5_17
+R088,3 No tema: experiência ou estudo de caso,,,Cracking the monolith: Challenges in data transitioning to cloud native architectures,2018,Scopus + ACM,,10.1145/3241403.3241440
+R089,3 No tema: experiência ou estudo de caso,,,Migrating towards microservices: Migration and architecture smells,2018,Scopus,,10.1145/3242163.3242164
+R090,3 No tema: experiência ou estudo de caso,,,Towards Transforming an Industrial Automation System from Monolithic to Microservices,2018,Scopus + IEEE,,10.1109/etfa.2018.8502567
+R091,3 No tema: experiência ou estudo de caso,,,From monolith to microservices: Lessons learned on an industrial migration to a web oriented architecture,2017,Scopus + IEEE,,10.1109/icsaw.2017.35
+R092,3 No tema: experiência ou estudo de caso,,,"Processes, Motivations, and Issues for Migrating to Microservices Architectures: An Empirical Investigation",2017,Scopus,E1,10.1109/mcc.2017.4250931
+R093,3 No tema: experiência ou estudo de caso,,,Migrating to Cloud-Native architectures using microservices: An experience report,2016,Scopus,,10.1007/978-3-319-33313-7_15
+R094,4 No tema: técnica de decomposição,,,A Model for Refactoring Monolithic Applications to Microservices Using Domain-Driven Design: A Case Study on IoT Irrigation Systems,2026,Scopus,,10.14569/ijacsa.2026.01706102
+R095,4 No tema: técnica de decomposição,,,A Pattern-Driven and LLM-Assisted Approach for Decomposing Monolithic ML-Based Systems into Microservices,2026,Scopus,,10.1007/978-981-95-5012-8_16
+R096,4 No tema: técnica de decomposição,,,A data-centric method for microservice identification: From data models analysis to source code assignment,2026,Scopus,,10.1016/j.infsof.2026.108141
+R097,4 No tema: técnica de decomposição,,,AI-Driven Microservice Identification for Business Process Digital Transformation: A Multi-Dependency Collaborative Clustering Approach,2026,Scopus,,10.19139/soic-2310-5070-2523
+R098,4 No tema: técnica de decomposição,,,Automated Decomposition of Monolith Applications into Microservices Architectures via Process Mining Techniques,2026,Scopus,,10.1007/978-3-032-11411-2_29
+R099,4 No tema: técnica de decomposição,,,Database-Aware Monolith Decomposition via Multi-Objective Optimization,2026,Scopus + ACM,,10.1145/3795101.3805455
+R100,4 No tema: técnica de decomposição,,,Evidence-Constrained LLMs for Microservice Decomposition: An Empirical Study on a Reconstructed Legacy System,2026,Scopus + IEEE,,10.1109/access.2026.3744313
+R101,4 No tema: técnica de decomposição,,,FractalX: Automated Migration of Modular Spring Boot Monoliths to Production-Ready Microservices via AST-Driven Static Decomposition,2026,Scopus + IEEE,,10.1109/iccta70480.2026.11706429
+R102,4 No tema: técnica de decomposição,,,From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks,2026,arXiv,,arXiv:2601.23141
+R103,4 No tema: técnica de decomposição,,,From Monolith to Microservices: A Hypergraph Partitioning Approach,2026,Scopus + IEEE,,10.1109/icsa66085.2026.00012
+R104,4 No tema: técnica de decomposição,,,Improving Microservices Identification for Migration to Cloud-Native Applications,2026,Scopus + IEEE,,10.1109/tsc.2026.3658420
+R105,4 No tema: técnica de decomposição,,,LLMs for Architectural Refactoring: An Exploratory Study on Monoliths to Microservices,2026,Scopus + IEEE,,10.1109/icsa66085.2026.00033
+R106,4 No tema: técnica de decomposição,,,MGLA: Multimodal Graph Learning Based Algorithm for Candidate Microservice Identification,2026,Scopus + IEEE,,10.1109/icws72778.2026.00032
+R107,4 No tema: técnica de decomposição,,,MIST: Microservices Identification from Sequential Traces,2026,Scopus + IEEE,,10.1109/icws72778.2026.00076
+R108,4 No tema: técnica de decomposição,,,MicroAgent: Context-Augmented Multi-agent Framework for Automatic Microservice Decomposition,2026,Scopus + ACM,,10.1145/3832783.3834441
+R109,4 No tema: técnica de decomposição,,,MicroSuggest: Kernel-Aware Microservice Decomposition,2026,Scopus,,10.1007/978-3-032-02215-8_24
+R110,4 No tema: técnica de decomposição,,,MicroWeaver: A Constraint-Guided Structure-Semantic Aware Approach to Automated Microservice Decomposition,2026,Scopus + ACM,,10.1145/3832783.3834457
+R111,4 No tema: técnica de decomposição,,,Modernizing Legacy Enterprise Platforms Using LLM-Driven Refactoring and AI-Assisted Architecture Transformation,2026,Scopus + IEEE,,10.1109/rmkmate69073.2026.11518954
+R112,4 No tema: técnica de decomposição,,,MonoEmbed: Enhancing LLM representations for monolith to microservices decomposition through contrastive learning,2026,Scopus,,10.1007/s10664-025-10732-z
+R113,4 No tema: técnica de decomposição,,,Refactoring Towards Microservices: Preparing the Ground for Service Extraction,2026,Scopus,,10.1007/978-3-032-19154-0_9
+R114,4 No tema: técnica de decomposição,,,Security-Aware Service Boundary Identification in Monolithic-to-Microservices Migration: A Static Analysis Approach,2026,IEEE,,10.23919/nisscps00007.2026.00022
+R115,4 No tema: técnica de decomposição,,,Security-Critical Execution Pattern Discovery for Microservices Decomposition: A Process Mining Approach,2026,Scopus + IEEE,,10.1109/iraset68627.2026.11538824
+R116,4 No tema: técnica de decomposição,,,TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition,2026,IEEE,,10.1109/scam71261.2026.00024
+R117,4 No tema: técnica de decomposição,,,A Case Study on Monolith to Microservices Decomposition with Variational Autoencoder-Based Graph Neural Network,2025,Scopus,,10.3390/fi17070303
+R118,4 No tema: técnica de decomposição,,,A Decomposition Method of Microservice-Oriented Based on Community Detection Strategy,2025,Scopus,,10.1007/978-981-96-3161-2_2
+R119,4 No tema: técnica de decomposição,,,A Microservice-Based Framework for Multi-Domain SDN Orchestration through Controller Decomposition,2025,Scopus + IEEE,,10.23919/cnsm67658.2025.11297567
+R120,4 No tema: técnica de decomposição,,,A Multi-View Approach for Automatic Microservice Extraction Based on BERT Models and Self-Weighted Clustering,2025,Scopus + IEEE,,10.1109/sccc67219.2025.11420630
+R121,4 No tema: técnica de decomposição,,,A Novel Metaheuristic Approach to Monolith Decomposition into Microservices,2025,Scopus + ACM,,10.1145/3712255.3734273
+R122,4 No tema: técnica de decomposição,,,An Infrastructure Cost Optimised Algorithm for Partitioning of Microservices,2025,Scopus + ACM,,10.1145/3690771.3690796
+R123,4 No tema: técnica de decomposição,,,Automated Microservice Decomposition Using Graph Reinforcement Learning for System Modernization,2025,Scopus + IEEE,,10.1109/iccasit66611.2025.11348732
+R124,4 No tema: técnica de decomposição,,,Automated Microservices Identification Through Business Process Analysis: A Semantic-Driven Clustering Approach,2025,Scopus + IEEE,,10.1109/access.2025.3571809
+R125,4 No tema: técnica de decomposição,,,Beyond Decomposition: A LLM-Powered Automated Approach to Refactoring Monoliths Into Microservices,2025,Scopus + IEEE,,10.1109/qrs65678.2025.00018
+R126,4 No tema: técnica de decomposição,,,Contrastive Learning-Enhanced Large Language Models for Monolith-to- Microservice Decomposition,2025,arXiv,,arXiv:2502.04604
+R127,4 No tema: técnica de decomposição,,,Domain Aligned Microservices Decomposition,2025,Scopus,,10.1145/3717383.3717396
+R128,4 No tema: técnica de decomposição,,,Domain-Driven Design Representation of Monolith Candidate Decompositions,2025,Scopus,,10.1007/978-3-031-78338-8_10
+R129,4 No tema: técnica de decomposição,,,Evaluation of Decomposition to Microservices with Optimized Inter-Service Communication Strategy,2025,Scopus,,
+R130,4 No tema: técnica de decomposição,,,Examination of Decomposition Techniques from Legacy Monolith to Softwarized Microservice-oriented Architectures in Industry 5.0 Vision,2025,Scopus,,10.1108/978-1-83549-676-320251007
+R131,4 No tema: técnica de decomposição,,,Exploring Alternative Microservice Decompositions using Data-driven Techniques and LLMs,2025,Scopus,,10.19153/cleiej.28.3.6
+R132,4 No tema: técnica de decomposição,,,Extracting microservices from monolithic applications using consistent graph enhanced Graph Transformer,2025,Scopus,,10.1016/j.jss.2025.112345
+R133,4 No tema: técnica de decomposição,,,Extracting microservices from monolithic systems using deep reinforcement learning,2025,Scopus,,10.1007/s10664-024-10547-4
+R134,4 No tema: técnica de decomposição,,,GGRME: A GGNN-based Graph Reconstruction Method for Microservice Extraction,2025,Scopus + IEEE,,10.1109/icws67624.2025.00129
+R135,4 No tema: técnica de decomposição,,,Identifying Key Factors Influencing the Cost of Running Microservices,2025,Scopus,,10.1007/978-981-96-6929-5_43
+R136,4 No tema: técnica de decomposição,,,Incidents During Microservice Decomposition: A Case Study,2025,Scopus + ACM,,10.1145/3756681.3757005
+R137,4 No tema: técnica de decomposição,,,JS-Distributor: decomposing monolith applications into microservices,2025,SOL,,
+R138,4 No tema: técnica de decomposição,,,MINDS: An NLP-Driven Process Mining Framework for Superior Microservices Decomposition,2025,Scopus + IEEE,,10.1109/access.2025.3639460
+R139,4 No tema: técnica de decomposição,,,MONO2REST: Identifying and Exposing Microservices: a Reusable RESTification Approach,2025,Scopus + IEEE,,10.1109/icsr66718.2025.00010
+R140,4 No tema: técnica de decomposição,,,Microservice Identification Using Multi-Objective Genetic Algorithms,2025,Scopus + IEEE,,10.1109/dsa66321.2025.00016
+R141,4 No tema: técnica de decomposição,,,Microservices Identification Using LLM,2025,Scopus + IEEE,,10.1109/asew67777.2025.00013
+R142,4 No tema: técnica de decomposição,,,Multi-View Graph Balanced Clustering for Scalable Microservice Decomposition in Cloud Computing,2025,Scopus + IEEE,,10.1109/iccc68654.2025.11437781
+R143,4 No tema: técnica de decomposição,,,Multi-View Spectral Clustering for Monolith-to-Microservices Migration,2025,Scopus + SOL,,
+R144,4 No tema: técnica de decomposição,,,Semantic-Structural Microservices Decomposition: Unifying Graph Neural Networks and Large Language Models for Multi-Objective Software Architecture Transformation,2025,Scopus + IEEE,,10.1109/i-smac65734.2025.11597822
+R145,4 No tema: técnica de decomposição,,,A Comprehensive Microservice Extraction Approach Integrating Business Functions and Database Entities,2024,Scopus,,10.34028/iajit/21/1/3
+R146,4 No tema: técnica de decomposição,,,A Microservice Decomposition Approach Driven by Sub-Requirement References in Problem Diagrams,2024,Scopus + IEEE,,10.1109/rew61692.2024.00031
+R147,4 No tema: técnica de decomposição,,,Addressing Security Issues during Decomposing Golang Monolithic Applications into Microservices through Code Analysis,2024,Scopus + IEEE,,10.1109/icasi60819.2024.10547752
+R148,4 No tema: técnica de decomposição,,,Catalysing Monolithic to Microsevices Migration: A Strategic Approach Using Refactoring and Pilot Projects,2024,Scopus + IEEE,,10.1109/icect61618.2024.10581399
+R149,4 No tema: técnica de decomposição,,,Cromlech: Semi-Automated Monolith Decomposition into Microservices,2024,Scopus + IEEE,,10.1109/tsc.2024.3354457
+R150,4 No tema: técnica de decomposição,,,Dynamic Decomposition of Monolith Applications Into Microservices Architectures,2024,Scopus + IEEE,,10.1109/mscc62288.2024.10697026
+R151,4 No tema: técnica de decomposição,,,Enhancing Automated Microservice Decomposition via Multi-Objective Optimization,2024,Scopus + IEEE,,10.1109/access.2024.3389700
+R152,4 No tema: técnica de decomposição,,,Ensemble Graph and Device Clustering Method based on Attention Mechanism for Decomposing Monolithic to Microservices,2024,Scopus + IEEE,,10.1109/ispa63168.2024.00123
+R153,4 No tema: técnica de decomposição,,,From Refactoring to Migration: A Quality-Driven Strategy for Microservices Adoption,2024,Scopus + IEEE,,10.1109/saner60148.2024.00092
+R154,4 No tema: técnica de decomposição,,,"Leveraging OpenAPI for Microservice Decomposition: A Comparative Study on Features, Encodings and Algorithms on a Real MES",2024,Scopus + IEEE,,10.1109/icaiic60209.2024.10463497
+R155,4 No tema: técnica de decomposição,,,Magnet: Method-Based Approach Using Graph Neural Network for Microservices Identification,2024,Scopus + IEEE,,10.1109/icsa59870.2024.00009
+R156,4 No tema: técnica de decomposição,,,MicroMatic: Fully Automated Microservices Identification Approach from Monolithic Systems,2024,Scopus + IEEE + ACM,,10.1145/3643794.3648283
+R157,4 No tema: técnica de decomposição,,,Microservice Decomposition Techniques: An Independent Tool Comparison,2024,Scopus + IEEE + ACM,,10.1145/3691620.3695504
+R158,4 No tema: técnica de decomposição,,,Microservice Extraction Based on a Comprehensive Evaluation of Logical Independence and Performance,2024,Scopus + IEEE,,10.1109/tse.2024.3380194
+R159,4 No tema: técnica de decomposição,,,Microservices Boundary Determination Migration in DevOps: a Case Study,2024,Scopus,,10.1051/bioconf/20249700122
+R160,4 No tema: técnica de decomposição,,,Migration of Monolithic to Microservices With an Extraction Design Pattern in Single Sign on (SSO) Module Using Graph Neural Network (GNN),2024,Scopus + IEEE,,10.1109/isitia63062.2024.10667894
+R161,4 No tema: técnica de decomposição,,,Mono2MS: Deep Fusion of Multi-Source Features for Partitioning Monolith into Microservices,2024,Scopus + ACM,,10.1145/3671016.3674817
+R162,4 No tema: técnica de decomposição,,,On the Variability of Microservice Decompositions: A Data-Driven Analysis,2024,Scopus + IEEE,,10.1109/clei64178.2024.10700261
+R163,4 No tema: técnica de decomposição,,,Research on Microservice Identification Technology Based on API Correlation,2024,Scopus,,10.1007/978-3-031-42515-8_75
+R164,4 No tema: técnica de decomposição,,,Research on database splitting methodology for microservicization of monolithic applications,2024,Scopus + IEEE,,10.1109/icctit64404.2024.10928564
+R165,4 No tema: técnica de decomposição,,,Towards Decomposing Monolithic Applications into Microservices: Dynamic Analysis,2024,Scopus,,10.1007/978-3-031-70411-6_16
+R166,4 No tema: técnica de decomposição,,,Towards a security-optimized approach for the microservice-oriented decomposition,2024,Scopus,,10.1002/smr.2670
+R167,4 No tema: técnica de decomposição,,,Using Graph Convolutional Networks for Identifying Potential Microservice Candidates from Monolith Application,2024,Scopus + IEEE,,10.1109/icasi60819.2024.10547753
+R168,4 No tema: técnica de decomposição,,,A Comparison of Static and Dynamic Analysis to Identify Microservices in Monolith Systems,2023,Scopus,,10.1007/978-3-031-42592-9_25
+R169,4 No tema: técnica de decomposição,,,A methodology for refactoring ORM-based monolithic web applications into microservices,2023,Scopus,,10.1016/j.cola.2023.101205
+R170,4 No tema: técnica de decomposição,,,AI-based Quality-driven Decomposition Tool for Monolith to Microservice Migration,2023,Scopus + ACM,,10.1145/3634814.3634839
+R171,4 No tema: técnica de decomposição,,,Actor-Driven Decomposition of Microservices through Multi-level Scalability Assessment,2023,Scopus,,10.1145/3583563
+R172,4 No tema: técnica de decomposição,,,Code Vectorization and Sequence of Accesses Strategies for Monolith Microservices Identification,2023,Scopus,,10.1007/978-3-031-34444-2_2
+R173,4 No tema: técnica de decomposição,,,Decomposing Monolithic to Microservices: Keyword Extraction and BFS Combination Method to Cluster Monolithic’s Classes,2023,Scopus,,10.29207/resti.v7i2.4866
+R174,4 No tema: técnica de decomposição,,,Dynamic and Static Feature-Aware Microservices Decomposition via Graph Neural Networks,2023,Scopus,,10.1007/978-3-031-40283-8_14
+R175,4 No tema: técnica de decomposição,,,From legacy to microservices: A type-based approach for microservices identification using machine learning and semantic analysis,2023,Scopus,,10.1002/smr.2503
+R176,4 No tema: técnica de decomposição,,,From monolithic to microservice architecture: an automated approach based on graph clustering and combinatorial optimization,2023,Scopus + IEEE,,10.1109/icsa56044.2023.00013
+R177,4 No tema: técnica de decomposição,,,Improving Industry 4.0 Readiness: Monolith Application Refactoring using Graph Attention Networks,2023,Scopus + IEEE,,10.1109/ccgridw59191.2023.00046
+R178,4 No tema: técnica de decomposição,,,Microservice extraction using graph deep clustering based on dual view fusion,2023,Scopus,,10.1016/j.infsof.2023.107171
+R179,4 No tema: técnica de decomposição,,,Monolith Development History for Microservices Identification: a Comparative Analysis,2023,Scopus + IEEE,,10.1109/icws60048.2023.00019
+R180,4 No tema: técnica de decomposição,,,Monolith Microservices Identification: Towards An Extensible Multiple Strategy Tool,2023,Scopus + IEEE,,10.1109/icsa-c57050.2023.00034
+R181,4 No tema: técnica de decomposição,,,Research on Decompostion Method of Relational Database Oriented to Microservice Refactoring,2023,Scopus + IEEE,,
+R182,4 No tema: técnica de decomposição,,,SEMGROMI—a semantic grouping algorithm to identifying microservices using semantic similarity of user stories,2023,Scopus,,10.7717/peerj-cs.1380
+R183,4 No tema: técnica de decomposição,,,Visually-Assisted Decomposition of Monoliths to Microservices,2023,Scopus + IEEE,,10.1109/vl-hcc57772.2023.00057
+R184,4 No tema: técnica de decomposição,,,A Comparative Study of Meta-Data-Based Microservice Extraction Tools,2022,Scopus,,10.4018/ijssmet.298677
+R185,4 No tema: técnica de decomposição,,,A Hierarchical DBSCAN Method for Extracting Microservices from Monolithic Applications,2022,Scopus,,10.1145/3530019.3530040
+R186,4 No tema: técnica de decomposição,,,A Microservices Identification Approach based on Problem Frames,2022,Scopus + IEEE,,10.1109/seai55746.2022.9832106
+R187,4 No tema: técnica de decomposição,,,A service graph based extraction of microservices from monolith services of service-oriented architecture,2022,Scopus,,10.1002/spe.3081
+R188,4 No tema: técnica de decomposição,,,Analysis of a many-objective optimization approach for identifying microservices from legacy systems,2022,Scopus,,10.1007/s10664-021-10049-7
+R189,4 No tema: técnica de decomposição,,,Automatic Microservices Identification Across Structural Dependency,2022,Scopus,,10.1007/978-3-030-96305-7_36
+R190,4 No tema: técnica de decomposição,,,Automatic Microservices Identification from Association Rules of Business Process,2022,Scopus,,10.1007/978-3-030-96308-8_44
+R191,4 No tema: técnica de decomposição,,,Combining Static and Dynamic Analysis to Decompose Monolithic Application into Microservices,2022,Scopus,,10.1007/978-3-031-20984-0_14
+R192,4 No tema: técnica de decomposição,,,Dependencies-based microservices decomposition method,2022,Scopus,,10.1080/1206212x.2021.1915444
+R193,4 No tema: técnica de decomposição,,,Identification of monolith functionality refactorings for microservices migration,2022,Scopus,,10.1002/spe.3141
+R194,4 No tema: técnica de decomposição,,,Implementation of Domain-oriented Microservices Decomposition based on Node-attributed Network,2022,Scopus + ACM,,10.1145/3524304.3524325
+R195,4 No tema: técnica de decomposição,,,Log2MS: A framework for automated refactoring monolith into microservices using execution logs,2022,Scopus + IEEE,,10.1109/icws55610.2022.00065
+R196,4 No tema: técnica de decomposição,,,Microservice extraction based on knowledge graph from monolithic applications,2022,Scopus,,10.1016/j.infsof.2022.106992
+R197,4 No tema: técnica de decomposição,,,Microservices Identification in Monolith Systems: Functionality Redesign Complexity and Evaluation of Similarity Measures,2022,Scopus + IEEE,,10.13052/jwe1540-9589.2158
+R198,4 No tema: técnica de decomposição,,,Towards Migrating Legacy Software Systems to Microservice-based Architectures: A Data-Centric Process for Microservice Identification,2022,Scopus + IEEE,,10.1109/icsa-c54293.2022.00010
+R199,4 No tema: técnica de decomposição,,,A Hot Decomposition Procedure: Operational Monolith System to Microservices,2021,Scopus + IEEE,,10.1109/icai52893.2021.9639494
+R200,4 No tema: técnica de decomposição,,,A Microservice Decomposition Method Through Using Distributed Representation Of Source Code,2021,Scopus,,10.12694:/scpe.v22i1.1836
+R201,4 No tema: técnica de decomposição,,,Applying Microservice Refactoring to Object-2riented Legacy System,2021,Scopus + IEEE,,10.1109/dsa52907.2021.00070
+R202,4 No tema: técnica de decomposição,,,Digital Transformation and the Role of Dynamic Tooling in Extracting Microservices from Existing Software Systems,2021,Scopus,,10.1007/978-3-030-85521-5_20
+R203,4 No tema: técnica de decomposição,,,Graph Neural Network to Dilute Outliers for Refactoring Monolith Application,2021,Scopus,,10.1609/aaai.v35i1.16079
+R204,4 No tema: técnica de decomposição,,,Identification of microservices from monolithic applications through topic modelling,2021,Scopus + ACM,,10.1145/3412841.3442016
+R205,4 No tema: técnica de decomposição,,,Method of Service Decomposition Based on Microservice Architecture; [一种基于微服务架构的服务划分方法],2021,Scopus,,10.11896/jsjkx.210500078
+R206,4 No tema: técnica de decomposição,,,Microservice decomposition and evaluation using dependency graph and silhouette coefficient,2021,Scopus + ACM + SOL,,10.1145/3483899.3483908
+R207,4 No tema: técnica de decomposição,,,Mono2Micro: A practical and effective tool for decomposing monolithic Java applications to microservices,2021,Scopus + ACM,,10.1145/3468264.3473915
+R208,4 No tema: técnica de decomposição,,,Monolith Modularization towards Microservices: Refactoring and Performance Trade-offs,2021,Scopus + IEEE,,10.1109/icsa-c52384.2021.00015
+R209,4 No tema: técnica de decomposição,,,Monolith to Microservice Candidates using Business Functionality Inference,2021,Scopus + IEEE,,10.1109/icws53863.2021.00104
+R210,4 No tema: técnica de decomposição,,,Pangaea: Semi-automated Monolith Decomposition into Microservices,2021,Scopus,,10.1007/978-3-030-91431-8_60
+R211,4 No tema: técnica de decomposição,,,Refactoring Java Monoliths into Executable Microservice-Based Applications,2021,Scopus,,10.1145/3475061.3475086
+R212,4 No tema: técnica de decomposição,,,Refactoring monolithic object-oriented source code to materialize microservice-oriented architecture,2021,Scopus,,10.5220/0010557800780089
+R213,4 No tema: técnica de decomposição,,,Service Candidate Identification from Monolithic Systems Based on Execution Traces,2021,Scopus + IEEE,,10.1109/tse.2019.2910531
+R214,4 No tema: técnica de decomposição,,,Weighing the Evidence: On Relationship Types in Microservice Extraction,2021,Scopus + IEEE,,10.1109/icpc52881.2021.00041
+R215,4 No tema: técnica de decomposição,,,A Decomposition and Metric-Based Evaluation Framework for Microservices,2020,Scopus,,10.1007/978-3-030-49432-2_7
+R216,4 No tema: técnica de decomposição,,,A Feature Table approach to decomposing monolithic applications into microservices,2020,Scopus + ACM,,10.1145/3457913.3457939
+R217,4 No tema: técnica de decomposição,,,Analysis of legacy monolithic software decomposition into microservices,2020,Scopus,,
+R218,4 No tema: técnica de decomposição,,,Automated microservice identification in legacy systems with functional and non-functional metrics,2020,Scopus + IEEE,,10.1109/icsa47634.2020.00021
+R219,4 No tema: técnica de decomposição,,,Decomposing Monolithic Systems to Microservices,2020,Scopus + IEEE,,10.1109/ic2ie50715.2020.9274641
+R220,4 No tema: técnica de decomposição,,,Determining microservice boundaries: A case study using static and dynamic software analysis,2020,Scopus,,10.1007/978-3-030-58923-3_21
+R221,4 No tema: técnica de decomposição,,,Extracting Microservices' Candidates from Monolithic Applications: Interface Analysis and Evaluation Metrics Approach,2020,Scopus + IEEE,,10.1109/sose50414.2020.9130466
+R222,4 No tema: técnica de decomposição,,,Microservice Decomposition via Static and Dynamic Analysis of the Monolith,2020,Scopus + IEEE + arXiv,,10.1109/icsa-c50368.2020.00011
+R223,4 No tema: técnica de decomposição,,,Microservice decompositon: A case study of a large industrial software migration in the automotive industry,2020,Scopus,,
+R224,4 No tema: técnica de decomposição,,,Scenario-driven and Bottom-up Microservice Decomposition Method for Monolithic Systems; [场景驱动且自底向上的单体系统微服务拆分方法],2020,Scopus,,10.13328/j.cnki.jos.006031
+R225,4 No tema: técnica de decomposição,,,Steinmetz: Toward automatic decomposition of monolithic software into microservices,2020,Scopus,,
+R226,4 No tema: técnica de decomposição,,,System decomposition to optimize functionality distribution in microservices with rule based approach,2020,Scopus + IEEE,,10.1109/sose49046.2020.00015
+R227,4 No tema: técnica de decomposição,,,Towards Decomposing Monolithic Applications into Microservices,2020,Scopus + IEEE,,10.1109/aict50176.2020.9368571
+R228,4 No tema: técnica de decomposição,,,Towards an Automatic Identification of Microservices from Business Processes,2020,Scopus + IEEE,,10.1109/wetice49692.2020.00017
+R229,4 No tema: técnica de decomposição,,,Towards an approach to decompose monolithic systems in microservices,2020,SOL,,
+R230,4 No tema: técnica de decomposição,,,A dataflow-driven approach to identifying microservices from monolithic applications,2019,Scopus,,10.1016/j.jss.2019.07.008
+R231,4 No tema: técnica de decomposição,,,A new decomposition method for designing microservices,2019,Scopus,,10.3311/ppee.13925
+R232,4 No tema: técnica de decomposição,,,Attributes assessing the quality of microservices automatically decomposed from monolithic applications,2019,Scopus + IEEE,,10.1109/ispdc.2019.00021
+R233,4 No tema: técnica de decomposição,,,Extraction of configurable and reusable microservices from legacy systems: An exploratory study,2019,Scopus + ACM,,10.1145/3336294.3336319
+R234,4 No tema: técnica de decomposição,,,From monolith to microservices: A classification of refactoring approaches,2019,Scopus,E4,10.1007/978-3-030-06019-0_10
+R235,4 No tema: técnica de decomposição,,,From monolithic systems to microservices: A decomposition framework based on process mining,2019,Scopus,,10.5220/0007755901530164
+R236,4 No tema: técnica de decomposição,,,MOMMIV: Model for the decomposition of a monolithic architecture towards a microservices architecture under the principle of information hiding; [MOMMIV: Modelo para descomposición de una arquitectura monolítica hacia una arquitectura de microservicios bajo el principio de ocultación de información],2019,Scopus,,
+R237,4 No tema: técnica de decomposição,,,MicroValid: A validation framework for automatically decomposed microservices,2019,Scopus + IEEE,,10.1109/cloudcom.2019.00023
+R238,4 No tema: técnica de decomposição,,,Towards a Technique for Extracting Relational Actors from Monolithic Applications,2019,SOL,,
+R239,4 No tema: técnica de decomposição,,,Unsupervised learning approach for web application auto-decomposition into microservices,2019,Scopus,,10.1016/j.jss.2019.02.031
+R240,4 No tema: técnica de decomposição,,,An automatic extraction approach - Transition to microservices architecture from monolithic application,2018,Scopus + ACM,,10.1145/3234152.3234195
+R241,4 No tema: técnica de decomposição,,,Matrix clustering based migration of system application to microservices architecture,2018,Scopus,,10.14569/ijacsa.2018.090139
+R242,4 No tema: técnica de decomposição,,,Extraction of Microservices from Monolithic Software Architectures,2017,Scopus + IEEE,,10.1109/icws.2017.61
+R243,4 No tema: técnica de decomposição,,,Microservices identification through interface analysis,2017,Scopus,,10.1007/978-3-319-67262-5_2
+R244,4 No tema: técnica de decomposição,,,The ENTICE approach to decompose monolithic services into microservices,2016,Scopus + IEEE,,10.1109/hpcsim.2016.7568389
+R245,"5 No tema: outros (processo, dados etc.)",,,AI-Driven Domainification and Configuration-First Microservices: A Framework for Monolith-to-Microservices Modernization,2026,Scopus + IEEE,,10.1109/acdsa67686.2026.11468101
+R246,"5 No tema: outros (processo, dados etc.)",,,An Experimental Study of Spring Boot-Based Monolithic and Micro-service Systems,2026,Scopus + ACM,,10.1145/3801619.3801666
+R247,"5 No tema: outros (processo, dados etc.)",,,Assessing Monolith and Microservices Architectures,2026,Scopus,,10.1016/j.procs.2026.03.049
+R248,"5 No tema: outros (processo, dados etc.)",,,CPU Consumption in Microservices-Based and Monolithic Applications,2026,Scopus,,10.1007/978-3-032-24513-7_12
+R249,"5 No tema: outros (processo, dados etc.)",,,"Cloud-Native Modernization Unleashed: Revolutionizing Legacy Systems with Spring, AI, Cloud, and Microservices",2026,Scopus,,10.1007/979-8-8688-2379-4
+R250,"5 No tema: outros (processo, dados etc.)",,,Cloud-Native Modernization of Legacy Enterprise Systems Using AI and DevSecOps,2026,Scopus + IEEE,,10.1109/icisc69558.2026.11681601
+R251,"5 No tema: outros (processo, dados etc.)",,,Converting a Monolithic E-Commerce Application to Microservices with OpenCV-Accelerated Virtual Try-On and LLM-Guided Interaction,2026,Scopus + IEEE,,10.1109/icicacs68679.2026.11578520
+R252,"5 No tema: outros (processo, dados etc.)",,,Coordinating Specialized AI Agents for Compliance-Preserving Migration of Monolithic Java Systems to Cloud-Native Architectures,2026,Scopus + IEEE,,10.1109/ais69919.2026.11621268
+R253,"5 No tema: outros (processo, dados etc.)",,,Developing a Framework for the Quality-Driven Migration to Microservices: A Multi-Method Design Science Study,2026,Scopus,,10.1002/spe.70062
+R254,"5 No tema: outros (processo, dados etc.)",,,Don’t go MAD with Anomalies! Design-time Microservice Anomaly Detection in Migration to Microservices,2026,Scopus,,10.1007/978-3-032-22774-4_11
+R255,"5 No tema: outros (processo, dados etc.)",,,LLM-Assisted Reverse Engineering of Legacy Databases for Microservices Architectures,2026,ACM,,10.1145/3829216.3829314
+R256,"5 No tema: outros (processo, dados etc.)",,,Memory Consumption in Microservices Based and Monolithic Applications,2026,Scopus,,10.1007/978-3-032-24513-7_13
+R257,"5 No tema: outros (processo, dados etc.)",,,Modernizing Legacy CRM into Insight Platforms in Regulated Domains Using Microservices and Governed Data Pipelines,2026,Scopus + IEEE,,10.1109/southeastcon63549.2026.11476164
+R258,"5 No tema: outros (processo, dados etc.)",,,Monoliths to Microservices: Evidence from Cloud Computing Pedagogy,2026,Scopus,,10.1109/icsa-c68850.2026.00028
+R259,"5 No tema: outros (processo, dados etc.)",,,A Pattern-Based Framework for Automated Migration of Monolithic Applications to Microservices,2025,Scopus,,10.3390/bdcc9100253
+R260,"5 No tema: outros (processo, dados etc.)",,,Applying Monolithic to Microservices Strategy for Elastic Container Deployment for AI Applications,2025,Scopus + IEEE,,10.1109/aiiot65859.2025.11105358
+R261,"5 No tema: outros (processo, dados etc.)",,,Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices,2025,arXiv,,arXiv:2505.17927
+R262,"5 No tema: outros (processo, dados etc.)",,,Automating Domain-Based Microservices Conversion from Monolithic Systems through Service Call Analysis,2025,Scopus,,10.7840/kics.2025.50.4.676
+R263,"5 No tema: outros (processo, dados etc.)",,,Deconstructing Monoliths: A Fault-Aware Transition to Microservices with Gateway Optimization using Spring Cloud,2025,Scopus + IEEE,,10.1109/icesc65114.2025.11212326
+R264,"5 No tema: outros (processo, dados etc.)",,,ENHANCING E-HEALTH CYBERSECURITY AND RESILIENCE: SHIFTING FROM MONOLITHIC TO MICROSERVICES ARCHITECTURE,2025,Scopus,,
+R265,"5 No tema: outros (processo, dados etc.)",,,Enhancing Microservice Migration Transformation from Monoliths with Graph Neural Networks,2025,Scopus + IEEE,,10.1109/saner64311.2025.00021
+R266,"5 No tema: outros (processo, dados etc.)",,,From Monolith to Microservices Architecture: Smooth and Agile Migration of Large-Scale Critical System,2025,Scopus,,10.1007/978-3-031-91337-2_77
+R267,"5 No tema: outros (processo, dados etc.)",,,MAT-Go: A Study on Automated Transformation of Monolithic Go Application Systems Into Microservice Architecture,2025,Scopus,,10.6688/jise.202501_41(1).0005
+R268,"5 No tema: outros (processo, dados etc.)",,,Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles,2025,Scopus + IEEE,,10.23919/jcin.2025.10964099
+R269,"5 No tema: outros (processo, dados etc.)",,,Migrating Monolithic Web Applications to Microservice Architectures Considering Dependencies on Databases and Views,2025,Scopus + ACM,,10.1145/3672608.3707939
+R270,"5 No tema: outros (processo, dados etc.)",,,Monolithic and Microservice Architecture: A Sustainable Approach,2025,Scopus + IEEE,,10.1109/icidea64800.2025.10962984
+R271,"5 No tema: outros (processo, dados etc.)",,,Scaling Millions to Billions: CaieFinder's Journey from Monolith to Microservices to Serverless,2025,Scopus + IEEE,,10.1109/nof66640.2025.11223309
+R272,"5 No tema: outros (processo, dados etc.)",,,Understanding the Drivers Behind the Shift from Monolithic Architecture: A Taxonomy of Antecedents,2025,Scopus,,10.1007/978-3-031-88999-8_33
+R273,"5 No tema: outros (processo, dados etc.)",,,A Catalog of Non-Functional Requirements and Patterns for Microservices Migration,2024,Scopus,,10.1145/3605098.3636023
+R274,"5 No tema: outros (processo, dados etc.)",,,An approach for microservices-oriented migration based on business information and GNN,2024,Scopus,,10.1117/12.3032029
+R275,"5 No tema: outros (processo, dados etc.)",,,Architecture Migration From Monolithic to Microservices: Developing Readiness Criteria,2024,Scopus + IEEE,,10.1109/access.2024.3504848
+R276,"5 No tema: outros (processo, dados etc.)",,,Assessment of Container Orchestration Strategies in the Migration of Monolithic Applications to a Microservices Architecture Using Open-Source Technologies,2024,Scopus,,10.1007/978-3-031-70760-5_7
+R277,"5 No tema: outros (processo, dados etc.)",,,Building Microservices with Node.js: Explore microservices applications and migrate from a monolith architecture to microservices,2024,Scopus,,
+R278,"5 No tema: outros (processo, dados etc.)",,,Comprehensive Framework for Transitioning Monolithic to Microservices in MVC Context,2024,Scopus + IEEE,,10.1109/iccit62134.2024.10701144
+R279,"5 No tema: outros (processo, dados etc.)",,,Learning-Based Microservice Placement and Migration for Multi-Access Edge Computing,2024,Scopus + IEEE,,10.1109/tnsm.2023.3344192
+R280,"5 No tema: outros (processo, dados etc.)",,,Migrating Monolith System to Microservices with Directed Graph Attention Neural Network,2024,Scopus,,10.1117/12.3026440
+R281,"5 No tema: outros (processo, dados etc.)",,,Migrating a Legacy System to a Microservice Architecture,2024,Scopus,,10.37190/e-inf240104
+R282,"5 No tema: outros (processo, dados etc.)",,,Migrating from Monolithic to Microservices with Hybrid Database Design Architecture,2024,Scopus + ACM,,10.1145/3654522.3654602
+R283,"5 No tema: outros (processo, dados etc.)",,,Observabilidade de Desempenho de Arquiteturas Monolíticas e Microsserviços com OpenTelemetry,2024,SOL,,
+R284,"5 No tema: outros (processo, dados etc.)",,,Reinforcement Learning Based Edge Microservice Migration Strategy under Resource Constraints,2024,Scopus + IEEE,,10.1109/monetec60984.2024.10768109
+R285,"5 No tema: outros (processo, dados etc.)",,,Test Case Migration from Monolith to Microservices Using Large Language Models,2024,Scopus + IEEE,,10.1109/icebe62490.2024.00014
+R286,"5 No tema: outros (processo, dados etc.)",,,Using Static Analysis to Aid Monolith to Microservice System Transformation: Tuning Fuzzy c-Means in a VAE-Based GNN Approach,2024,Scopus + IEEE + ACM,,10.1145/3691621.3694933
+R287,"5 No tema: outros (processo, dados etc.)",,,A DDD Approach Towards Automatic Migration To Microservices,2023,Scopus + IEEE,,10.1109/ic_aset58101.2023.10150522
+R288,"5 No tema: outros (processo, dados etc.)",,,An Approach of a Migration Process from a Legacy Web Management System with a Monolithic Architecture to a Modern Microservices-Based Architecture of a Tourism Services Company,2023,Scopus + IEEE,,10.1109/conisoft58849.2023.00012
+R289,"5 No tema: outros (processo, dados etc.)",,,An Approach to Migrate from Legacy Monolithic Application into Microservice Architecture,2023,Scopus + IEEE,,10.1109/estream59056.2023.10135021
+R290,"5 No tema: outros (processo, dados etc.)",,,Assessing the Impact of Migration from SOA to Microservices Architecture,2023,Scopus,,10.1007/s42979-023-01971-2
+R291,"5 No tema: outros (processo, dados etc.)",,,From Monolith to Microservice: Measuring Architecture Maintainability,2023,Scopus,,10.14569/ijacsa.2023.0140591
+R292,"5 No tema: outros (processo, dados etc.)",,,Migrating from Monoliths to Microservices: Enforcing Correct Coordination,2023,Scopus + IEEE,,10.1109/asew60602.2023.00020
+R293,"5 No tema: outros (processo, dados etc.)",,,Migrating monoliths to cloud-native microservices for customizable SaaS,2023,Scopus,,10.1016/j.infsof.2023.107230
+R294,"5 No tema: outros (processo, dados etc.)",,,On a Metaprocess for Microservice Migration,2023,Scopus + ACM + SOL,,10.1145/3613372.3613382
+R295,"5 No tema: outros (processo, dados etc.)",,,Paradigm Shift from Monolithic to Microservices,2023,Scopus + IEEE,,10.1109/rasse60029.2023.10363466
+R296,"5 No tema: outros (processo, dados etc.)",,,Simplifying Microservices Migration with Advanced Genetic Algorithms,2023,Scopus,,10.1007/978-3-031-43300-9_36
+R297,"5 No tema: outros (processo, dados etc.)",,,Smooth Change: Moving from Monolithic to Microservices with Flexible Methods,2023,Scopus,,10.1007/978-3-031-43300-9_46
+R298,"5 No tema: outros (processo, dados etc.)",,,Transforming Monolithic Systems to a Microservices Architecture,2023,ACM,,10.1145/3573074.3573091
+R299,"5 No tema: outros (processo, dados etc.)",,,Architect: A Framework for the Migration to Microservices,2022,Scopus + IEEE,,10.1109/iccece55162.2022.9875096
+R300,"5 No tema: outros (processo, dados etc.)",,,CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture,2022,Scopus + ACM + arXiv,,10.1145/3551349.3556960
+R301,"5 No tema: outros (processo, dados etc.)",,,Design and Testing on Migration of Remiss-Supply in Banking System to Microservice Architecture,2022,Scopus + IEEE,,10.1109/comnetsat56033.2022.9994362
+R302,"5 No tema: outros (processo, dados etc.)",,,Facilitating the migration to the microservice architecture via model-driven reverse engineering and reinforcement learning,2022,Scopus,,10.1007/s10270-022-00977-3
+R303,"5 No tema: outros (processo, dados etc.)",,,From Monolith to Microservices: A Semi-Automated Approach for Legacy to Modern Architecture Transition using Static Analysis,2022,Scopus,,10.14569/ijacsa.2022.01310107
+R304,"5 No tema: outros (processo, dados etc.)",,,MIGRATION FROM MONOLITHIC TO MICROSERVICE ARCHITECTURE: RESEARCH OF IMPACTS ON AGILITY,2022,Scopus,,10.35011/idimt-2022-401
+R305,"5 No tema: outros (processo, dados etc.)",,,Materializing Microservice-oriented Architecture from Monolithic Object-oriented Source Code,2022,Scopus,,10.1007/978-3-031-11513-4_7
+R306,"5 No tema: outros (processo, dados etc.)",,,Methods and process of service migration from monolithic architecture to microservices,2022,Scopus + IEEE,,10.1109/tcset55632.2022.9767055
+R307,"5 No tema: outros (processo, dados etc.)",,,Microservice Migration Using Strangler Fig Pattern and Domain-Driven Design,2022,Scopus,,10.6688/jise.202211_38(6).0010
+R308,"5 No tema: outros (processo, dados etc.)",,,Migrating Monoliths to Microservices Integrating Robotic Process Automation into the Migration Approach,2022,Scopus,,10.14313/jamris/1-2022/8
+R309,"5 No tema: outros (processo, dados etc.)",,,Migrating Monoliths to Microservices based on the Analysis of Database Access Requests,2022,Scopus + IEEE,,10.1109/sose55356.2022.00008
+R310,"5 No tema: outros (processo, dados etc.)",,,Migrating Regional Development Plan Forum System to Service Platform Based on Microservices,2022,Scopus + IEEE,,10.1109/icitsi56531.2022.9971119
+R311,"5 No tema: outros (processo, dados etc.)",,,Monolith to Microservices: Representing Application Software through Heterogeneous Graph Neural Network,2022,Scopus,,10.24963/ijcai.2022/542
+R312,"5 No tema: outros (processo, dados etc.)",,,The Adoption of Microservices Architecture as a Natural Consequence of Legacy System Migration at Police Intelligence Department,2022,Scopus,,10.1007/978-3-031-10522-7_25
+R313,"5 No tema: outros (processo, dados etc.)",,,Transition from Monolithic to Microservices Architecture: Need and proposed pipeline,2022,Scopus + IEEE,,10.1109/incoft55651.2022.10094556
+R314,"5 No tema: outros (processo, dados etc.)",,,A prescriptive model for migration to microservices based on SDLC artifacts,2021,Scopus + IEEE,,10.13052/jwe1540-9589.20312
+R315,"5 No tema: outros (processo, dados etc.)",,,Analysis of non-functional requirements in the migration processes from monolithic systems to microservices; [Análise de Requisitos Não-Funcionais nos Processos de Migração de Sistemas Monolíticos para Microsserviços],2021,Scopus,,10.29327/1298728.24-28
+R316,"5 No tema: outros (processo, dados etc.)",,,Development of a methodology for migration of monolithic systems to microservice architecture using cloud technologies,2021,Scopus,,10.1088/1742-6596/2091/1/012036
+R317,"5 No tema: outros (processo, dados etc.)",,,From Monolithic to Microservice Architecture: The Case of Extensible and Domain-Specific IDEs,2021,Scopus + IEEE,,10.1109/models-c53483.2021.00070
+R318,"5 No tema: outros (processo, dados etc.)",,,From monolithic systems to Microservices: An assessment framework,2021,Scopus,,10.1016/j.infsof.2021.106600
+R319,"5 No tema: outros (processo, dados etc.)",,,Legacy Digital Transformation: TCO and ROI Analysis,2021,Scopus,,10.32985/ijeces.12.3.5
+R320,"5 No tema: outros (processo, dados etc.)",,,Microservices: Migration of a Mission Critical System,2021,Scopus + IEEE,,10.1109/tsc.2018.2889087
+R321,"5 No tema: outros (processo, dados etc.)",,,Migrating Monoliths to Microservices-based Customizable Multi-tenant Cloud-native Apps,2021,Scopus + IEEE,,10.1109/seaa53835.2021.00030
+R322,"5 No tema: outros (processo, dados etc.)",,,Migrating production monolithic systems to microservices using aspect oriented programming,2021,Scopus,,10.1002/spe.2956
+R323,"5 No tema: outros (processo, dados etc.)",,,Migration of Monoliths through the Synthesis of Microservices using Combinatorial Optimization,2021,Scopus + IEEE,,10.1109/issrew53611.2021.00056
+R324,"5 No tema: outros (processo, dados etc.)",,,Migração de Aplicações Monolíticas para Microsserviços com Uso de Inteligência Artificial,2021,SOL,,
+R325,"5 No tema: outros (processo, dados etc.)",,,Modernizing legacy systems with microservices: A roadmap,2021,Scopus + ACM,,10.1145/3463274.3463334
+R326,"5 No tema: outros (processo, dados etc.)",,,Monolithic to Microservices Migration Strategy in Public Safety Secretariat of Mato Grosso,2021,Scopus + IEEE,,10.1109/icecce52056.2021.9514268
+R327,"5 No tema: outros (processo, dados etc.)",,,"Transitioning from Legacy Air Traffic Management to Airspace Management through Secure, Cloud-Native Automation Solutions",2021,Scopus + IEEE,,10.1109/dasc52595.2021.9594313
+R328,"5 No tema: outros (processo, dados etc.)",,,You don't need a Microservices Architecture (yet): Monoliths may do the trick,2021,Scopus + ACM,,10.1145/3501774.3501780
+R329,"5 No tema: outros (processo, dados etc.)",,,A Model-Driven Approach Towards Automatic Migration to Microservices,2020,Scopus,,10.1007/978-3-030-39306-9_2
+R330,"5 No tema: outros (processo, dados etc.)",,,A complexity metric for microservices architecture migration,2020,Scopus + IEEE,,10.1109/icsa47634.2020.00024
+R331,"5 No tema: outros (processo, dados etc.)",,,Does migrating a monolithic system to microservices decrease the technical debt?,2020,Scopus,,10.1016/j.jss.2020.110710
+R332,"5 No tema: outros (processo, dados etc.)",,,From a Monolithic Big Data System to a Microservices Event-Driven Architecture,2020,Scopus + IEEE,,10.1109/seaa51224.2020.00045
+R333,"5 No tema: outros (processo, dados etc.)",,,From monolithic architecture style to microservice one based on a semi-automatic approach,2020,Scopus + IEEE,,10.1109/icsa47634.2020.00023
+R334,"5 No tema: outros (processo, dados etc.)",,,Migrating application from monolith to microservices,2020,Scopus + IEEE,,10.1109/icimtech50083.2020.9211252
+R335,"5 No tema: outros (processo, dados etc.)",,,Migration from monolith to microservices with legacy compatibility,2020,Scopus,,10.1117/12.2558030
+R336,"5 No tema: outros (processo, dados etc.)",,,Monolith migration complexity tuning through the application of microservices patterns,2020,Scopus,,10.1007/978-3-030-58923-3_3
+R337,"5 No tema: outros (processo, dados etc.)",,,Partial Migration for Re-architecting a Cloud Native Monolithic Application into Microservices and FaaS,2020,Scopus,,10.1007/978-981-15-9671-1_9
+R338,"5 No tema: outros (processo, dados etc.)",,,Requirements for a model-driven cloud-native migration of monolithic web-based applications,2020,Scopus,,10.1007/s00450-019-00414-9
+R339,"5 No tema: outros (processo, dados etc.)",,,Towards a Process for Migrating Legacy Systems into Microservice Architectural Style,2020,SOL,,
+R340,"5 No tema: outros (processo, dados etc.)",,,Does Migrate a Monolithic System to Microservices Decrease the Technical Debt?,2019,arXiv,,arXiv:1902.06282
+R341,"5 No tema: outros (processo, dados etc.)",,,From a monolith to a microservices architecture: An approach based on transactional contexts,2019,Scopus,,10.1007/978-3-030-29983-5_3
+R342,"5 No tema: outros (processo, dados etc.)",,,From monolithic architecture to microservices architecture,2019,Scopus + IEEE,,10.1109/issrew.2019.00050
+R343,"5 No tema: outros (processo, dados etc.)",,,Migrating Legacy Software to Microservices Architecture,2019,Scopus + IEEE,,10.1109/estream.2019.8732170
+R344,"5 No tema: outros (processo, dados etc.)",,,Migrating learning management systems towards microservice architecture,2019,Scopus,,
+R345,"5 No tema: outros (processo, dados etc.)",,,Migration of software components to microservices: Matching and synthesis,2019,Scopus,,10.5220/0007732101340146
+R346,"5 No tema: outros (processo, dados etc.)",,,Migração de Sistemas Monolíticos para Microserviços: Uma Abordagem Híbrida sem Downtime,2019,SOL,,
+R347,"5 No tema: outros (processo, dados etc.)",,,On monolithic and microservice deployment of network functions,2019,Scopus + IEEE,,10.1109/netsoft.2019.8806705
+R348,"5 No tema: outros (processo, dados etc.)",,,Towards a roadmap for the migration of legacy software systems to a microservice based architecture,2019,Scopus,,10.5220/0007618400370047
+R349,"5 No tema: outros (processo, dados etc.)",,,"Migrating Enterprise Legacy Source Code to Microservices: On Multitenancy, Statefulness, and Data Consistency",2018,Scopus + IEEE,,10.1109/ms.2017.440134612
+R350,"5 No tema: outros (processo, dados etc.)",,,Migrating web applications from monolithic structure to microservices architecture,2018,Scopus + ACM,,10.1145/3275219.3275230
+R351,"5 No tema: outros (processo, dados etc.)",,,SMMicro: A methodological proposal for migrating from monolithic architecture to microservices,2018,Scopus,,
+R352,"5 No tema: outros (processo, dados etc.)",,,Uso de AOP na Migração de Aplicações Monolíticas para Microservices,2018,SOL,,
+R353,"5 No tema: outros (processo, dados etc.)",,,Visualization Tool for Designing Microservices with the Monolith-First Approach,2018,Scopus + IEEE,,10.1109/vissoft.2018.00012
+R354,"5 No tema: outros (processo, dados etc.)",,,From Monolith to Microservices: A Dataflow-Driven Approach,2017,Scopus + IEEE,,10.1109/apsec.2017.53
+R355,"5 No tema: outros (processo, dados etc.)",,,Microservices architecture: Case on the migration of reservation-based parking system,2017,Scopus + IEEE,,10.1109/icct.2017.8359946
+R356,"5 No tema: outros (processo, dados etc.)",,,Migrating Monolithic Mobile Application to Microservice Architecture: An Experiment Report,2017,Scopus + IEEE,,10.1109/aims.2017.23
+R357,"5 No tema: outros (processo, dados etc.)",,,Supporting the decision of migrating to microservices through multi-layer fuzzy cognitive maps,2017,Scopus,,10.1007/978-3-319-69035-3_34
+R358,"5 No tema: outros (processo, dados etc.)",,,Towards a methodology to form microservices from monolithic ones,2017,Scopus,,10.1007/978-3-319-58943-5_23
+R359,"5 No tema: outros (processo, dados etc.)",,,Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture,2016,Scopus,,10.1109/ms.2016.64
+R360,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Arquitetura de controle de tráfego aéreo,Advancing ATM through Info centric and Composable Service Architectures,2026,Scopus + IEEE,,10.1109/icns69853.2026.11570396
+R361,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Escolha da estratégia de migração,Evaluating Migration Strategies: A Scoring-Based Comparison of Big Bang and Incremental Approaches,2026,Scopus + IEEE,,10.1109/southeastcon63549.2026.11476001
+R362,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Geração de microsserviços com modelos de linguagem,Exploring the Systematic Use of LLMs for Micro services Generation,2026,Scopus,,10.1007/978-981-96-7238-7_10
+R363,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,"Compara frontends, não microsserviços (limítrofe)",Microfrontends versus Monolithic Frontends: An Experimental Study on Performance in Web Applications,2026,Scopus + IEEE,,10.1109/jiot.2026.3731417
+R364,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Função de rede 5G,Modular virtual distributed unit design for efficient cloud RAN deployment,2026,Scopus,,10.1016/j.comnet.2025.111892
+R365,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 4 No tema: técnica de decomposição,Decomposição com otimização e modelos de linguagem,Semanti-MOP: Bridging the semantic gap in automated architecture refactoring via instability-aware Large Language Models,2026,Scopus,,10.1016/j.infsof.2026.108280
+R366,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 4 No tema: técnica de decomposição,Identificação de microsserviços,Implementing Automatic Microservices Detection in Business Processes Using Association Rules,2025,Scopus,,10.19139/soic-2310-5070-2071
+R367,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Função de rede 5G,Modularizing the Virtual Distributed Unit: Enabling Efficiency in Cloud-Native 5G RAN,2025,Scopus + IEEE,,
+R368,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Livro tutorial; a migração é apenas um capítulo,"Pro Cloud-Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 11 APIs, and Kubernetes",2025,Scopus,,10.1007/979-8-8688-1396-2
+R369,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Migração para a nuvem e impacto ambiental,Sustainable Cloud Migration: An Analysis of Environmental Impacts and Strategic Optimizations,2025,Scopus,,10.1016/j.procs.2025.09.461
+R370,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Estudo de caso de migração,TRANSFORMING SOFTWARE ARCHITECTURE: A STRANGLER FIG PATTERN APPROACH,2025,Scopus,,10.24507/icicelb.16.08.865
+R371,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Ambiente de execução transacional,Transactional Cloud Applications Go with the (Data)Flow,2025,Scopus,,
+R372,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Modelo de manutenibilidade motivado pela migração (limítrofe),A Metrics-based Model for Estimating the Maintainability of Cloud-Based Enterprise Information Systems for Kenyan SMEs,2024,Scopus + IEEE,,10.23919/ist-africa63983.2024.10569731
+R373,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Ganhos e dificuldades da adoção (limítrofe),Adopting and Sustaining Microservice-Based Software Development,2024,Scopus,,10.1145/3651620
+R374,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Levantamento com profissionais,Insights on Microservice Architecture Through the Eyes of Industry Practitioners,2024,Scopus + IEEE,,10.1109/icsme58944.2024.00080
+R375,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 4 No tema: técnica de decomposição,Ferramenta de identificação e refatoração,MSA-Lab: Integrated Design Platform for Model-driven Development of Microservices; [MSA-Lab: 模型驱动的微服务集成设计平台],2024,Scopus,,10.13328/j.cnki.jos.006813
+R376,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Gestão de configuração,Use of clustering methods to solve the problem of identifying configuration items in IT project,2024,Scopus,,10.15587/978-617-8360-03-0.ch1
+R377,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Arquitetura para facilitar migração futura (limítrofe),Approach for Fast Growing Software Systems using layered architecture. Scaling an architecture with minimal refactoring; [Abordagem para Sistemas de Software de Crescimento Rápido utilizando uma arquitetura por camadas. Escalar uma arquitetura com o mínimo de refactoring],2023,Scopus + IEEE,,10.23919/cisti58278.2023.10211943
+R378,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Caso de migração,Microservice Based Architecture: The Development of Rapid Prototyping Supportive Tools for Project Based Learning,2023,Scopus + IEEE,,10.1109/edunine57531.2023.10102884
+R379,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Projeto de decomposição de um sistema acadêmico,Analysis and Design of Microservices Architecture with GraphlQL as an API Gateway for Higher Education Information System,2022,Scopus + IEEE,,10.1109/icostech54296.2022.9829090
+R380,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 2 No tema: estudo secundário,Revisão sistemática; inclui problemas da migração,How Can We Cope with the Impact of Microservice Architecture Smells?,2022,Scopus + ACM,,10.1145/3524304.3524306
+R381,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 4 No tema: técnica de decomposição,Identificação de microsserviços,Leveraging the Layered Architecture for Microservice Recovery,2022,Scopus + IEEE,,10.1109/icsa53651.2022.00021
+R382,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Transição em domínio específico (limítrofe),MICROSERVICE ARCHITECTURE OF VIRTUAL TRAINING COMPLEXES; [МИКРОСЕРВИСНАЯ АРХИТЕКТУРА ВИРТУАЛЬНЫХ ТРЕНАЖЕРНЫХ КОМПЛЕКСОВ],2022,Scopus,,10.15622/ia.21.6.7
+R383,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 1 No tema: comparação ou desempenho,Comparação de desempenho com o monólito,Performance Evaluation of Microservices Featuring Different Implementation Patterns,2022,Scopus,,10.1007/978-3-030-96308-8_15
+R384,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 2 No tema: estudo secundário,Revisão multivocal sobre técnicas de migração,Serverless Software Engineering – and How to Get There.,2022,Scopus,,10.1007/978-3-031-15559-8_6
+R385,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Modelo de decisão de migração,A Roadmap for Migration System-Architecture Decision by Neutrosophic-ANP and Benchmark for Enterprise Resource Planning Systems,2021,Scopus + IEEE,,10.1109/access.2021.3068837
+R386,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Processo de migração orientado a qualidade,Enhancing system quality attributes via microservices adoption,2021,Scopus,,
+R387,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 7 Fora do tema,Contêineres sobre máquinas virtuais (limítrofe),Container mapping and its impact on performance in containerized cloud environments,2020,Scopus + IEEE,,10.1109/sose49046.2020.00014
+R388,6 Conferir: só o resumo indica migração,"Revisão manual (13/11/2026): 5 No tema: outros (processo, dados etc.)",Testes na migração,Applying change impact analysis test to migration test case extraction based on IDAU and graph analysis techniques,2019,Scopus + IEEE,,10.1109/icstw.2019.00041
+R389,6 Conferir: só o resumo indica migração,Revisão manual (13/11/2026): 3 No tema: experiência ou estudo de caso,Relato de migração com levantamento,An experience report on the adoption of microservices in three Brazilian government institutions,2018,Scopus + ACM,,10.1145/3266237.3266262
+R390,7 Fora do tema,,,"11th Balkan Conference in Informatics, BCI 2025",2026,Scopus,,
+R391,7 Fora do tema,,,"23rd International Conference on Service-Oriented Computing, ICSOC 2025",2026,Scopus,,
+R392,7 Fora do tema,,,"26th International Conference on Enterprise Information Systems, ICEIS 2024",2026,Scopus,,
+R393,7 Fora do tema,,,A Cloud-Native Blockchain-Integrated Architecture for Digital Credential Management in Learning Management Systems: Empirical Performance Evaluation and Deployment Trade-Offs,2026,Scopus,,10.3390/app16126198
+R394,7 Fora do tema,,,A Data Mesh Architecture for IoT-Edge-Cloud Continuum Smart City Systems,2026,Scopus + IEEE,,10.1109/percomworkshops68308.2026.11585408
+R395,7 Fora do tema,,,A Hybrid Intelligent Framework for Scalable and Secure Data Governance in Cloud-Native Banking Systems,2026,Scopus + IEEE,,10.1109/icssas68835.2026.11559321
+R396,7 Fora do tema,,,A Multi-Metric Scoring Framework for Resilient Microservice Orchestration in Kubernetes,2026,Scopus,,10.5220/0014803600004039
+R397,7 Fora do tema,,,"A Practical Security Framework for Hyperscale Multi-cloud Data Centres: Kubernetes Security, Zero Trust, and AI Driven Threat Detection",2026,Scopus,,10.1007/978-3-032-25038-4_25
+R398,7 Fora do tema,,,A Probabilistic Framework for Early-Stage Scalability Analysis in the Software Development Life Cycle,2026,Scopus + IEEE,,10.1109/access.2026.3724290
+R399,7 Fora do tema,,,"A Scalable Microservice Architecture for Autonomous IoT Systems in Smart Transportation: Integration of Edge Computing, Real-Time Processing, and Security",2026,Scopus + IEEE,,10.1109/access.2026.3691572
+R400,7 Fora do tema,,,A Systematic Mapping on Serverless Computing,2026,Scopus,,10.1007/978-3-032-12882-9_1
+R401,7 Fora do tema,,,AI-Driven Cloud-Native Banking Platforms: A Scalable Architecture for Real-Time Financial Services,2026,Scopus + IEEE,,10.1109/icosaas68663.2026.11649474
+R402,7 Fora do tema,,,ATC: An Active Cellular Network Architecture for Application Performance Guarantee in 6G,2026,Scopus + IEEE,,10.1109/mcom.001.2500452
+R403,7 Fora do tema,,,AgenticOTA: An Agentic AI Pipeline for Context-Aware Over-the-Air Update Deployments in Connected Autonomous Vehicles,2026,Scopus + IEEE,,10.1109/tsc.2026.3700604
+R404,7 Fora do tema,,,An Assistant System for Speaker and Sentiment Recognition Using RAM and a Hybrid AI Model,2026,Scopus,,10.3390/electronics15081731
+R405,7 Fora do tema,,,An Experimental Evaluation of Layered Security Controls for Inter-Service Communication in Containerised Microservices,2026,Scopus,,10.3390/app16199502
+R406,7 Fora do tema,,,Autonomous Cloud Infrastructure and Self-Healing Systems,2026,Scopus,,10.1002/9781394382484.ch11
+R407,7 Fora do tema,,,Benchmarking API Data Transfer Refactorings to Service-Oriented Architectures,2026,Scopus,,10.1109/icsa66085.2026.00025
+R408,7 Fora do tema,,,"Building Scalable Microservices with Java, Spring Boot, Kafka, and Kubernetes on AWS",2026,Scopus + IEEE,,10.1109/iccbi68589.2026.11619637
+R409,7 Fora do tema,,,C-Koordinator: Interference-Aware Management for Large-Scale and Co-Located Microservice Clusters,2026,Scopus,,10.1002/spe.70059
+R410,7 Fora do tema,,,Campus Electrical Energy Consumption Online Monitoring System Based on Microservice Architecture,2026,Scopus + IEEE,,10.1109/isctis70043.2026.11572046
+R411,7 Fora do tema,,,Cloud-Native Architecture for Municipal Government Digital and Intelligent Transformation: Design and Implementation,2026,Scopus + ACM,,10.1145/3786484.3786535
+R412,7 Fora do tema,,,Cloud-edge collaborative microservices architecture for renewable energy monitoring: A comprehensive framework for multi-power plant management,2026,Scopus,,10.1016/j.iot.2026.102120
+R413,7 Fora do tema,,,CloudERPBench: An Open-Source Testbed for Cost-Performance Evaluation of Cloud ERP Deployment Patterns for SMEs,2026,Scopus + IEEE,,10.1109/sist61674.2026.11596494
+R414,7 Fora do tema,,,Course Design and Practice of Microservice Ordering System Based on Spring Cloud,2026,Scopus + ACM,,10.1145/3829641.3829673
+R415,7 Fora do tema,,,DEVELOPMENT OF INTELLIGENT MODEL-TECHNOLOGICAL TOOLS FOR E-BANKING SYSTEMS BASED ON MICROSERVICES,2026,Scopus,,10.15587/1729-4061.2026.351604
+R416,7 Fora do tema,,,Decoupling Complex Domain Logic: A Bounded Context Approach to High-Scale Orchestration,2026,IEEE,,10.1109/ce2ct68422.2026.11756420
+R417,7 Fora do tema,,,Design and Implementation of Microservice Architecture in E-commerce Platforms Using Docker and Kubernetes,2026,Scopus,,10.1007/978-3-032-02790-0_5
+R418,7 Fora do tema,,,Design and Implementation of a Cloud-Native ERP System Using AWS,2026,Scopus + IEEE,,10.1109/ccic68129.2026.11485938
+R419,7 Fora do tema,,,Design and Practice of Digital Transformation for Large-Scale Group Treasury Management Systems Based on Microservice Architecture,2026,Scopus + ACM,,10.1145/3788910.3789016
+R420,7 Fora do tema,,,Designing Self-Healing Systems with.NET: From Resilience to Autonomous Recovery in Modern Software Systems,2026,Scopus,,10.1007/979-8-8688-3177-5
+R421,7 Fora do tema,,,Detecting Microservice's Architectural Anti-Pattern Indicators Using Graph Neural Networks,2026,Scopus,,10.1002/spe.70035
+R422,7 Fora do tema,,,Determining implementation and redundancy configurations of applications based on multi-start hill climbing algorithms,2026,Scopus + ACM,,10.1145/3775030.3775035
+R423,7 Fora do tema,,,Distributed Platform Architecture and API-Led Integration,2026,Scopus + IEEE,,10.1109/icaiset66439.2026.11541787
+R424,7 Fora do tema,,,Efficient Management of Composite Heterogeneous Applications at the Network Edge,2026,Scopus + IEEE,,10.1109/tnsm.2026.3709656
+R425,7 Fora do tema,,,Efficient frontend for microservice-based applications,2026,Scopus,,10.3233/faia260627
+R426,7 Fora do tema,,,Emerging Paradigms in Distributed Computing: A Systematic Review of Serverless Edge Technologies,2026,Scopus,,10.2174/0118722121424408251204210812
+R427,7 Fora do tema,,,Empirical Performance and Operational Analysis of Monolithic and Distributed Database Architectures in Kubernetes Environments,2026,Scopus,,10.3390/computers15050282
+R428,7 Fora do tema,,,Enhancing Service Coupling in Microservice Architecture: Strategies and Design Characteristics,2026,Scopus,,10.1007/978-3-032-01133-6_10
+R429,7 Fora do tema,,,Evaluating Data Replication Models for Improving the Efficiency of Distributed Microservice Systems,2026,Scopus,,10.47839/ijc.25.2.4659
+R430,7 Fora do tema,,,Exploring Cloud-Native Microservices Architectures and Design Patterns,2026,Scopus + IEEE,,10.1002/9781394382484.ch3
+R431,7 Fora do tema,,,Exploring Micro Frontends: A Case Study Application in E-Commerce,2026,Scopus,,10.1007/978-3-032-04403-7_17
+R432,7 Fora do tema,,,FNoDe: Faulty Node Detection in Microservices Architecture,2026,Scopus,,10.1007/978-3-032-02215-8_6
+R433,7 Fora do tema,,,Fabric-X: Scaling Hyperledger Fabric for Asset Exchange,2026,Scopus + ACM,,10.1145/3788853.3803092
+R434,7 Fora do tema,,,Feature Selection Methods for Intelligent Software Performance Monitoring Based on Machine Learning,2026,Scopus,,10.5815/ijem.2026.03.13
+R435,7 Fora do tema,,,Federated microservices architecture with blockchain for privacy-preserving and scalable healthcare analytics,2026,Scopus,,10.1038/s41598-026-39837-1
+R436,7 Fora do tema,,,Flexible Expansion and Deployment Architecture for Relay Protection Remote Maintenance Master Station Using Low-Code and Containerization Technologies,2026,Scopus,,10.3390/en19092113
+R437,7 Fora do tema,,,From Prototype to Platform: Cloud-Native AI at Scale,2026,Scopus + IEEE,,10.1109/bdai70753.2026.11655158
+R438,7 Fora do tema,,,From Relational to Document-Based: How Database Selection Shapes Software Architecture in Distributed Systems,2026,Scopus + IEEE,,10.1109/it67293.2026.11435700
+R439,7 Fora do tema,,,Generative AI-Driven Enterprise Content Management: A Microservices Framework Leveraging Reinforcement Learning for Scalable and Resilient Financial Systems,2026,Scopus + IEEE,,10.1109/iccbi68589.2026.11619809
+R440,7 Fora do tema,,,Generative deep learning in bioinformatics: a microservices-driven paradigm for big data environment,2026,Scopus,,10.1186/s40537-025-01320-5
+R441,7 Fora do tema,,,Hybrid Orchestration of AI Services and Microservices in Cloud-Edge Collaboration,2026,Scopus + IEEE,,10.1109/tmc.2026.3654236
+R442,7 Fora do tema,,,Impact of Microservices Architecture on Computational Efficiency of Climate,2026,ACM,,10.1145/3844275.3844351
+R443,7 Fora do tema,,,Importance of High-Level Design in Scalable Projects,2026,Scopus,,10.1063/5.0320161
+R444,7 Fora do tema,,,Integration and Application of Information Technology in Smart Cities,2026,Scopus,,10.1007/978-981-95-2518-8_3
+R445,7 Fora do tema,,,Leveraging Microservices Architecture to Enhance Scalability and Resilience in E-Commerce Platforms,2026,Scopus,,10.1007/978-3-032-02790-0_4
+R446,7 Fora do tema,,,Microservice Deployment in Space Computing Power Networks Via Robust Reinforcement Learning,2026,Scopus + IEEE,,10.1109/tmc.2025.3607488
+R447,7 Fora do tema,,,Microservice-Oriented Cyber Deception Platform with Containerized Honeypots and Real-Time Telemetry,2026,Scopus,,10.3390/jcp6040117
+R448,7 Fora do tema,,,Microservices Architecture in Environmental Modelling: Potential and Feasibility,2026,Scopus,,10.3233/atde0462
+R449,7 Fora do tema,,,Microservices-Based Architectural Patterns for High-Availability Systems,2026,Scopus + IEEE,,10.1109/icctwc68241.2026.11583028
+R450,7 Fora do tema,,,Multi-Criteria Decision-Making (MCDM) Approach for Software Architecture Selection in Cloud Computing Using Evidential Reasoning and Bayesian Inference Techniques,2026,Scopus,,10.5815/ijieeb.2026.01.01
+R451,7 Fora do tema,,,OPTIMIZING MICROSERVICES DESIGN PATTERN: MAXIMIZING COMMUNICATION SPEED AND PROLONGING APPLICATION LONGEVITY; [ОПТИМІЗАЦІЯ ШАБЛОНУ СТВОРЕННЯ МІКРОСЕРВІСІВ: МАКСИМІЗАЦІЯ ШВИДКОСТІ ЗВ’ЯЗКУ ТА ПОДОВЖЕННЯ ЧАСУ ЖИТТЯ СИСТЕМИ /],2026,Scopus,,10.20535/srit.2308-8893.2026.1.02
+R452,7 Fora do tema,,,OptimaCore: A Real-Time Low-Latency Framework for Cloud-Native Applications,2026,Scopus + IEEE,,10.1109/ncc68160.2026.11479074
+R453,7 Fora do tema,,,"Pakka Play: A Unified Hyper-Local Sports Ecosystem for Digital Identity, Real-Time Analytics, and Grassroots Talent Empowerment",2026,Scopus + IEEE,,10.1109/icmlas67792.2026.11483773
+R454,7 Fora do tema,,,Performance Analysis of Microservices Architecture with Backend for Frontend (BFF) Pattern in a Digital Library Management System,2026,Scopus + IEEE,,10.1109/icitcom70739.2026.11714362
+R455,7 Fora do tema,,,Performance Evaluation of MVC and Microservices Architecture in Handling Concurrent Requests on an E-Commerce Website,2026,Scopus,,10.1007/978-981-95-1357-4_31
+R456,7 Fora do tema,,,Practical Efficient Deployment and Updating for Microservice With Dependencies in Multi-Access Edge Computing,2026,Scopus + IEEE,,10.1109/tsc.2025.3642155
+R457,7 Fora do tema,,,Research on the Design and Implementation of Chronic Disease Management System Based on Microservice Architecture,2026,Scopus + ACM,,10.1145/3777577.3777699
+R458,7 Fora do tema,,,"Scalable Middleware Layer for Secure, Fault-Tolerant, and High-Throughput Enterprise Application Integration Across Hybrid Cloud Environments",2026,Scopus + IEEE,,10.1109/aimlcps68702.2026.11542477
+R459,7 Fora do tema,,,Scalable Software Architecture Design for Cloud-Native Applications,2026,Scopus + IEEE,,10.1109/icctwc68241.2026.11583313
+R460,7 Fora do tema,,,Scaling Secure AI-Enabled Fintech Applications with Micro Frontends: A Case Study in Regulated Environments,2026,Scopus + IEEE,,10.1109/icssit69151.2026.11656574
+R461,7 Fora do tema,,,Service-Oriented Digital Validation Ecosystems: A Microservices Architecture for Lifecycle Management of Pharmaceutical CQV Systems,2026,Scopus + IEEE,,10.1109/tic68483.2026.11702930
+R462,7 Fora do tema,,,Simulation of Cloud-native Microservices-based Architecture for Power Applications,2026,Scopus,,10.4316/aece.2026.01003
+R463,7 Fora do tema,,,Strategic Management of Hybrid Retrieval-Augmented Microservices for Long-Horizon Cloud Machine Learning,2026,Scopus,,10.23940/ijpe.26.05.p6.288296
+R464,7 Fora do tema,,,Towards a Microservice Architecture for High-Quality Banking System: A Case Report and Review,2026,Scopus,,10.1002/cpe.70471
+R465,7 Fora do tema,,,TraDE: Network and Traffic-Aware Adaptive Scheduling for Microservices Under Dynamics,2026,Scopus + IEEE,,10.1109/tpds.2025.3626424
+R466,7 Fora do tema,,,"Tracks and workshops which complemented the 19th European Conference on Software Architecture, ECSA 2025",2026,Scopus,,
+R467,7 Fora do tema,,,Transferable Migration Framework Derived from a Large-scale Tertiary Hospital EHR System,2026,Scopus,,10.4258/hir.2026.32.2.145
+R468,7 Fora do tema,,,Using Guided Community Detection to Improve Existing Microservice Designs,2026,Scopus,,10.1007/978-981-95-5012-8_15
+R469,7 Fora do tema,,,WORKLOAD-AWARE DEPLOYMENT DECISION-MAKING IN MICROSERVICE ARCHITECTURES: AN EMPIRICAL FRAMEWORK WITH PERFORMANCE INDEX,2026,Scopus,,10.5281/zenodo.20497613
+R470,7 Fora do tema,,,A Microservice-Based Inventory Management and Analysis System for Smart Warehouses,2025,Scopus + IEEE,,10.1109/iot69654.2025.11297642
+R471,7 Fora do tema,,,A New Generation Electric Information Acquisition System Based on Microservice Architecture,2025,Scopus + IEEE,,10.1109/aeeca65693.2025.00063
+R472,7 Fora do tema,,,A Node Failure Prediction Methodology for Cloud-Native Clusters,2025,Scopus + IEEE,,10.1109/iccea65460.2025.11103189
+R473,7 Fora do tema,,,A Review of Resilience Testing in Microservices Architectures: Implementing Chaos Engineering for Fault Tolerance and System Reliability,2025,Scopus + IEEE,,10.1109/ccwc62904.2025.10903891
+R474,7 Fora do tema,,,A Scalable Microservices Architecture for Real-Time Data Processing in Cloud-Based Applications,2025,Scopus,,10.14569/ijacsa.2025.0160905
+R475,7 Fora do tema,,,A Service Mesh-Driven Continuous Delivery Strategy for Microservices with Intelligent Decision Models,2025,Scopus + IEEE,,10.1109/mlprae67267.2025.11290917
+R476,7 Fora do tema,,,A Survey on Opensource Solutions for API Monitoring in Microservice Architecture,2025,Scopus,,
+R477,7 Fora do tema,,,A Systematic Framework To Enhance Reusability In Microservice Architecture,2025,Scopus,,10.12785/ijcds/1571009176
+R478,7 Fora do tema,,,A Trace-Driven Framework for Generating Realistic Synthetic Microservice Interactions,2025,Scopus + IEEE,,10.1109/ciscon66933.2025.11337785
+R479,7 Fora do tema,,,A case study on implementing a flexible IIoT service framework for the integration of machine tools,2025,Scopus,,10.1016/j.jii.2025.100908
+R480,7 Fora do tema,,,A cyber-resilient open architecture for drone control,2025,Scopus,,10.1016/j.cose.2024.104205
+R481,7 Fora do tema,,,A high-load architecture for image processing based on microservices,2025,Scopus,,
+R482,7 Fora do tema,,,A microservices-based online judge for scalability in programming education platforms,2025,SOL,,
+R483,7 Fora do tema,,,AI-Driven ERP Modernization in Cloud-Native Systems,2025,Scopus,,10.1109/icsit65336.2025.11295360
+R484,7 Fora do tema,,,AI-Enabled Secure and Scalable Distributed Web Architecture for Medical Informatics,2025,Scopus,,10.3390/app151910710
+R485,7 Fora do tema,,,Adaptive IoT Framework: A Modular Approach for Smart Device Integration,2025,Scopus + IEEE,,10.1109/rcsm67767.2025.11507981
+R486,7 Fora do tema,,,Adaptive load balancing and fault-tolerant microservices architecture for high-availability web systems using docker and spring cloud,2025,Scopus,,10.1007/s42452-025-07320-7
+R487,7 Fora do tema,,,Advancing Industry 4.0 Control Systems with MOM-based Hybrid Architecture,2025,Scopus + ACM,,10.1145/3718391.3727888
+R488,7 Fora do tema,,,An Efficient and Resilience Mechanism for Immersive Service Using Microservice Chaining,2025,Scopus + IEEE,,10.1109/iscc65549.2025.11326537
+R489,7 Fora do tema,,,An Extended Study of the Performance of Flexible Controllers Composed of Micro-controllers,2025,Scopus,,10.1145/3715145
+R490,7 Fora do tema,,,Analysis of methods and models for implementing databases and web interfaces: a case study of student management information systems,2025,Scopus,,
+R491,7 Fora do tema,,,Automated Cloud-Native Dynamic Network Policy Generation Based on Microservices Topology,2025,Scopus,,10.1007/978-981-96-9914-8_22
+R492,7 Fora do tema,,,Building Resilient Web Applications with Continuous Deployment and Microservices: Crafting Scalable and Secure Architectures,2025,Scopus + IEEE,,10.1109/icoact63339.2025.11005237
+R493,7 Fora do tema,,,CSMO: The Cross-Supervision Method for Microservice Optimization through Decentralized Data Management,2025,Scopus,,10.1007/978-981-96-0808-9_9
+R494,7 Fora do tema,,,Classification of Autonomous UAV Control Systems Review,2025,Scopus,,10.1007/978-3-031-95191-6_24
+R495,7 Fora do tema,,,Cloud-Native Architectures: Transforming Enterprise IT Operations,2025,Scopus,,10.22034/jipm.2025.728114
+R496,7 Fora do tema,,,DDRM: An SLO-aware Deep Dynamic Resource Management Framework for Microservices,2025,Scopus + IEEE,,10.1109/cluster59342.2025.11186472
+R497,7 Fora do tema,,,Deploying a Transformer-Based Model in Microservices Architecture: An Approach for Real-Time Body Pose Classification,2025,Scopus,,10.54941/ahfe1005921
+R498,7 Fora do tema,,,Design and Implementation of an Enterprise ERP System Based on Microservice Architecture,2025,Scopus + IEEE,,10.1109/isctis65944.2025.11065395
+R499,7 Fora do tema,,,Design and Implementation of an Open Teaching System for University English Courses Based on Microservices Architecture,2025,Scopus + ACM,,10.1145/3775073.3775225
+R500,7 Fora do tema,,,Design and implementation analysis of microservices architecture for enterprise management software based on DevOps,2025,Scopus,,10.1117/12.3075658
+R501,7 Fora do tema,,,Designing Scalable Microservices for Credit Card Authorization Systems,2025,Scopus + IEEE,,10.1109/icat2i69744.2025.11472755
+R502,7 Fora do tema,,,Designing and Implementing LLM Guardrails Components in Production Environments,2025,Scopus + IEEE,,10.1109/cain66642.2025.00010
+R503,7 Fora do tema,,,Dockerized Microservices for Routing and Traffic Engineering in Complex Networks,2025,Scopus + IEEE,,10.1109/icsec67360.2025.11298007
+R504,7 Fora do tema,,,Does microservice adoption impact the velocity? A cohort study,2025,Scopus,,10.1007/s10664-025-10673-7
+R505,7 Fora do tema,,,Edge intelligence unleashed: a survey on deploying large language models in resource-constrained environments,2025,Scopus,,10.55056/jec.1000
+R506,7 Fora do tema,,,"Edge-Cloud Architectures for Distributed, Real-Time Systems in Mission-Critical Domains",2025,Scopus + IEEE,,10.1109/iccit68739.2025.11491302
+R507,7 Fora do tema,,,Edge-cloud monitoring system for smart vertical farming,2025,Scopus,,
+R508,7 Fora do tema,,,Energy-aware elastic scaling algorithm for microservices in Kubernetes clouds,2025,Scopus,,10.1016/j.jnca.2025.104218
+R509,7 Fora do tema,,,Enhancing Distributed System Performance with an Intelligent Multi-Agent Microservices Architecture,2025,Scopus,,10.3991/ijim.v19i24.56299
+R510,7 Fora do tema,,,Evaluating The Modularity of Domain-Driven Design Approach: A Case Study of Academic Information System,2025,Scopus + IEEE,,10.1109/icocseti63724.2025.11019730
+R511,7 Fora do tema,,,Guidelines for Adoption Micro-frontend Architecture,2025,SOL,,
+R512,7 Fora do tema,,,Gwydion: Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning,2025,Scopus,,10.1016/j.jnca.2024.104067
+R513,7 Fora do tema,,,INVESTIGATION ON PERFORMANCE EVALUATION OF CONTAINERIZED MICROSERVICE FOR EDGE COMPUTING ENVIRONMENT,2025,Scopus,,10.5935/jetia.v11i55.2712
+R514,7 Fora do tema,,,Improved Performance Control of Cloud-Native Microservices in the Edge with Proactive Autoscaling,2025,Scopus + IEEE,,10.1109/noms57970.2025.11073633
+R515,7 Fora do tema,,,Innovative Framework for Secure and Scalable Web and Mobile Application Development in Fintech: A User- Centric and AI - Driven Approach,2025,Scopus + IEEE,,10.1109/icuis67429.2025.11380645
+R516,7 Fora do tema,,,Latency aware graph-based microservice placement in the edge-cloud continuum,2025,Scopus,,10.1007/s10586-024-04824-6
+R517,7 Fora do tema,,,Log-Augmented Time-LLM for Resources Prediction in Microservices Architecture,2025,Scopus + IEEE,,10.1109/ic-nidc67200.2025.11390523
+R518,7 Fora do tema,,,Microservice Dependency Discovery Based on Spatio-Temporal Network Flow Behavior Modeling,2025,Scopus + IEEE,,10.1109/cscwd64889.2025.11033637
+R519,7 Fora do tema,,,Microservices Architecture for Computer Vision Applications,2025,Scopus + IEEE,,10.1109/icect66235.2025.11381691
+R520,7 Fora do tema,,,Microservices Architecture in Fintech: A Case Study on Scalable Loan Processing with Classical Design Patterns,2025,Scopus + IEEE,,10.1109/imsa65733.2025.11167186
+R521,7 Fora do tema,,,Modular Communication Service Managed by Microservices,2025,Scopus + IEEE,,10.1109/cinti67731.2025.11311766
+R522,7 Fora do tema,,,Network-aware container scheduling in edge computing,2025,Scopus,,10.1007/s10586-024-04733-8
+R523,7 Fora do tema,,,OPTIMIZING MSME PRODUCT AUTHENTICITY VERIFICATION USING SERVERLESS EVENT-DRIVEN MICROSERVICES ON HYBRID BLOCKCHAIN ARCHITECTURE,2025,Scopus,,10.37385/jaets.v7i1.7167
+R524,7 Fora do tema,,,Optimal Cost-Sensitive Microservice Granulation Based on Granular-Ball Computing,2025,Scopus + IEEE,,10.1109/icpads67057.2025.11322986
+R525,7 Fora do tema,,,Optimizing Scalability and Resilience in Digital Platforms Through Microservice Deployment Strategies,2025,Scopus + IEEE,,10.1109/icrito66076.2025.11241342
+R526,7 Fora do tema,,,Optimizing Traffic Allocation for Multi-replica Microservice Deployments in Edge Cloud,2025,Scopus,,10.1007/978-981-96-0805-8_7
+R527,7 Fora do tema,,,Optimizing the Efficiency of Computational Platforms: Traditional vs. Containerized Setups,2025,Scopus + IEEE,,10.1109/isacc65211.2025.10969433
+R528,7 Fora do tema,,,Performance Evaluation of NewSQL Databases in a Distributed Architecture,2025,Scopus + IEEE,,10.1109/access.2025.3529740
+R529,7 Fora do tema,,,Practical Microservices Architectural Patterns: Build Highly Scalable Distributed Applications with Spring Boot 3 and Spring Cloud,2025,Scopus,,10.1007/979-8-8688-1606-2
+R530,7 Fora do tema,,,Pro Microservices in.NET 10: A Holistic Approach to Building Microservices in C#,2025,Scopus,,10.1007/979-8-8688-2049-6
+R531,7 Fora do tema,,,QuantiSA: Quantified Service Architecture,2025,Scopus + IEEE,,10.1109/ic3ecsbhi63591.2025.10991140
+R532,7 Fora do tema,,,Research of Cloud-Native-Based Software-Defined Radar Information Processing Architecture,2025,Scopus + IEEE,,10.1109/eei67650.2025.11334864
+R533,7 Fora do tema,,,"SQAMIA 2025 - Proceedings of the 12th Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications",2025,Scopus,,
+R534,7 Fora do tema,,,Satellite Service Prediction via Spatial-Temporal GNN Integrated with Orbital Context,2025,Scopus + IEEE,,10.1109/vtc2025-fall65116.2025.11310089
+R535,7 Fora do tema,,,Scalable Marine AIS Architecture with FedMicro for Distributed Vessel Tracking,2025,Scopus + IEEE,,10.1109/fnwf66845.2025.11317183
+R536,7 Fora do tema,,,Scaling Kubernetes Architectures for High Availability in Cloud,2025,Scopus + IEEE,,10.1109/icocseti63724.2025.11020084
+R537,7 Fora do tema,,,Scaling LLM Inference Architectures: A Performance Analysis for Chatbot Applications,2025,Scopus + IEEE,,10.1109/airc64931.2025.11077484
+R538,7 Fora do tema,,,Software Architecture with Spring: Design scalable and high-performance Java applications with Spring,2025,IEEE,,
+R539,7 Fora do tema,,,StatuScale: Status-aware and Elastic Scaling Strategy for Microservice Applications,2025,Scopus + ACM,,10.1145/3686253
+R540,7 Fora do tema,,,THE ROLE OF SOFTWARE ARCHITECTURES IN PROGRAMMING,2025,Scopus,,10.52202/083088-0057
+R541,7 Fora do tema,,,The art of decoding microservices: An in-depth exploration of modern software architecture,2025,Scopus,,10.1007/979-8-8688-1267-5
+R542,7 Fora do tema,,,Wearing a fur coat in the summertime: Should digital pathology redefine medical imaging?,2025,Scopus,,10.1016/j.jpi.2025.100450
+R543,7 Fora do tema,,,e-Commerce Mobile Systems Development with Enhanced Microservice Architecture Design,2025,Scopus + ACM,,10.1145/3718391.3718405
+R544,7 Fora do tema,,,"27th Ibero-American Conference on Software Engineering, CIbSE 2024",2024,Scopus,,
+R545,7 Fora do tema,,,"2nd International Conference on Connected Objects and Artificial Intelligence, COCIA 2024",2024,Scopus,,
+R546,7 Fora do tema,,,A Contemporary Secure Microservices Discovery Architecture with Service Tags for Smart City Infrastructures,2024,Scopus,,10.21015/vtse.v12i1.1752
+R547,7 Fora do tema,,,A Microservices-Based Control Plane for Time-Sensitive Networking,2024,Scopus,,10.3390/fi16040120
+R548,7 Fora do tema,,,A Multi-variant Benchmark for Microservice Systems in Software Engineering Research,2024,Scopus,,10.1007/978-3-031-71246-3_3
+R549,7 Fora do tema,,,A Systematic Literature Review on the Strategic Shift to Cloud ERP: Leveraging Microservice Architecture and MSPs for Resilience and Agility,2024,Scopus,,10.3390/electronics13142885
+R550,7 Fora do tema,,,A dynamic data collection method for microservice invocation link data based on high-performance agent technology,2024,Scopus,,10.1117/12.3037834
+R551,7 Fora do tema,,,A proposed catalog of development patterns for fault-tolerant microservices,2024,Scopus + ACM + SOL,,10.1145/3701625.3701678
+R552,7 Fora do tema,,,Adaptability of Microservices Architecture in IoT Systems : A Comprehensive Review,2024,Scopus + ACM,,10.1145/3659677.3659734
+R553,7 Fora do tema,,,An application about server communication: Using the Command pattern on Web API requests,2024,Scopus + IEEE,,10.1109/ecai61503.2024.10607395
+R554,7 Fora do tema,,,An empirical study on cross-component dependent changes: A case study on the components of OpenStack,2024,Scopus,,10.1007/s10664-024-10488-y
+R555,7 Fora do tema,,,Analysis of Selected Load Balancing Algorithms in Containerized Cloud Environment for Microservices,2024,Scopus + IEEE,,10.1109/vlsisata61709.2024.10560139
+R556,7 Fora do tema,,,Benchmarking Micro2Micro transformation: an approach with GNN and VAE,2024,Scopus,,10.1007/s10586-024-04526-z
+R557,7 Fora do tema,,,Boosting the visibility of services in microservice architecture,2024,Scopus,,10.1007/s10586-023-04132-5
+R558,7 Fora do tema,,,CMXsafe: A Proxy Layer for Securing Internet-of-Things Communications,2024,Scopus,,10.1109/tifs.2024.3404258
+R559,7 Fora do tema,,,CSPUMS: Pioneering Integrated Monitoring in Multi-Service Provider Ecosystems,2024,Scopus + IEEE,,10.1109/icccbda61447.2024.10569563
+R560,7 Fora do tema,,,Data Processing Unit (DPU) Based Network Process Offloading for Efficient Service Meshes,2024,Scopus + IEEE,,10.1109/netsoft60951.2024.10588912
+R561,7 Fora do tema,,,Decoupling of Heterogeneous Systems Using the Microservices Architectural Model in Higher Institutions of Learning in Zambia,2024,Scopus,,10.1007/978-3-031-54813-0_41
+R562,7 Fora do tema,,,DeepMRA: An Efficient Microservices Resource Allocation Framework with Deep Reinforcement Learning in the Cloud,2024,Scopus,,10.1007/978-981-97-5581-3_37
+R563,7 Fora do tema,,,Demo: Cloud-native Cyber Deception with Decepto,2024,Scopus + IEEE,,10.1109/iscc61673.2024.10733585
+R564,7 Fora do tema,,,Development of Applications Based on Microservices - Case Study of Ministry of Economy and Finance of Paraguay,2024,Scopus + IEEE,,10.1109/clei64178.2024.10700123
+R565,7 Fora do tema,,,Development of a Software System Based on Microservice Architecture for Flaw Detection of Industrial Products,2024,Scopus + IEEE,,10.1109/piere62470.2024.10804873
+R566,7 Fora do tema,,,Domain-Driven Design in Microservices-Based Systems Development: A Systematic Literature Review and Thematic Analysis,2024,Scopus,,10.1134/s0361768824700749
+R567,7 Fora do tema,,,Dynamic decomposition of service function chain using a deep reinforcement learning approach,2024,Scopus + IEEE,,10.1049/pbte109e_ch8
+R568,7 Fora do tema,,,Dynamically Balancing Load with Overload Control for Microservices,2024,Scopus,,10.1145/3676167
+R569,7 Fora do tema,,,"ENeRgy SustaInability COding, a Practical Use Case",2024,Scopus + IEEE,,10.1109/apsec65559.2024.00050
+R570,7 Fora do tema,,,"Edge, Fog, and Cloud Against Disease: The Potential of High-Performance Cloud Computing for Pharma Drug Discovery",2024,Scopus,,10.1007/978-1-0716-3449-3_8
+R571,7 Fora do tema,,,EdgeBus: Co-Simulation based resource management for heterogeneous mobile edge computing environments,2024,Scopus,,10.1016/j.iot.2024.101368
+R572,7 Fora do tema,,,Empowering Sustainable Industrial and Service Systems through AI-Enhanced Cloud Resource Optimization,2024,Scopus,,10.3390/su16125095
+R573,7 Fora do tema,,,End-To-End Cloud Application Cloning with Ditto,2024,Scopus + IEEE,,10.1109/mm.2024.3419067
+R574,7 Fora do tema,,,Enhancing Effectiveness and Security in Microservices Architecture,2024,Scopus,,10.1016/j.procs.2024.06.417
+R575,7 Fora do tema,,,Enhancing Reusability in Microservice Architecture,2024,Scopus + IEEE,,10.1109/iraset60544.2024.10549318
+R576,7 Fora do tema,,,Evaluating Mesh Communications in Disaggregated Near-RT RIC for 5G Open RAN: A Functional and Performance Analysis,2024,Scopus + IEEE,,10.1109/globecom52923.2024.10901151
+R577,7 Fora do tema,,,Evaluating the Performance of Sidecar-based and Sidecarless Cloud-native Service Mesh Solutions,2024,Scopus + IEEE,,10.1109/ants63515.2024.10897788
+R578,7 Fora do tema,,,Event-Driven Architecture (EDA) vs API-Driven Architecture (ADA): Which Performs Better in Microservices?,2024,Scopus + IEEE,,10.1109/icoabcd63526.2024.10704326
+R579,7 Fora do tema,,,Fault Tolerance Enhancement in Microservices using Orchestration Process with Agile,2024,Scopus + IEEE,,10.1109/i-smac61858.2024.10714589
+R580,7 Fora do tema,,,GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications,2024,Scopus + ACM,,10.1145/3589334.3645665
+R581,7 Fora do tema,,,High-performance microservice differentiated domain communication technology,2024,Scopus,,10.1007/s00607-023-01232-3
+R582,7 Fora do tema,,,Hybrid Grey Wolf and Particle Swarm Optimized (HGW-PSO) Scheduling in Containerized Cloud Computing Environment,2024,Scopus + IEEE,,10.1109/incet61516.2024.10593037
+R583,7 Fora do tema,,,Impacto de Desempenho da Granularidade de Microsserviços: Uma Avaliação com o Arcabouço Service Weaver,2024,SOL,,
+R584,7 Fora do tema,,,Intelligent Agent support for Topology Learning in microservices-based SDN Controller,2024,Scopus,,10.1109/icc51166.2024.10622390
+R585,7 Fora do tema,,,"International Conference of Applied Engineering and Innovative Technologies, AENIT 2023",2024,Scopus,,
+R586,7 Fora do tema,,,MSTG: A Flexible and Scalable Microservices Infrastructure Generator,2024,Scopus + IEEE,,10.23919/tma62044.2024.10559148
+R587,7 Fora do tema,,,MiMoQ: A System for Experimentation of Microservice-Based Applications,2024,Scopus,,10.1007/978-3-031-75236-0_31
+R588,7 Fora do tema,,,Micro Frontend Architecture,2024,Scopus + IEEE,,10.1109/zinc61849.2024.10579400
+R589,7 Fora do tema,,,Micro Frontend Based Performance Improvement and Prediction for Microservices Using Machine Learning,2024,Scopus,,10.1007/s10723-024-09760-8
+R590,7 Fora do tema,,,Micro-Chain: A Cluster Architecture for Managing NDN Microservices,2024,Scopus + SOL,,10.5753/jisa.2024.3965
+R591,7 Fora do tema,,,MicroFuzz: An Efficient Fuzzing Framework for Microservices,2024,Scopus + ACM,,10.1145/3639477.3639723
+R592,7 Fora do tema,,,"Microservices and serverless functions—lifecycle, performance, and resource utilisation of edge based real-time IoT analytics",2024,Scopus,,10.1016/j.future.2024.02.006
+R593,7 Fora do tema,,,Microservices performance forecast using dynamic Multiple Predictor Systems,2024,Scopus,,10.1016/j.engappai.2023.107649
+R594,7 Fora do tema,,,"Modern Network Observability: A hands-on approach using open source tools such as Telegraf, Prometheus, and Grafana",2024,Scopus,,
+R595,7 Fora do tema,,,Multilayered Fault Detection and Localization With Transformer for Microservice Systems,2024,Scopus + IEEE,,10.1109/tr.2024.3356717
+R596,7 Fora do tema,,,No More Data Silos: Unified Microservice Failure Diagnosis With Temporal Knowledge Graph,2024,Scopus + IEEE,,10.1109/tsc.2024.3489444
+R597,7 Fora do tema,,,On the Joint Design of Microservice Deployment and Routing in Cloud Data Centers,2024,Scopus,,10.1007/s10723-024-09759-1
+R598,7 Fora do tema,,,Optimizing Microservices Placement in the Cloud-to-Edge Continuum: A Comparative Analysis of App and Service Based Approaches,2024,Scopus + IEEE,,10.1109/melecon56669.2024.10608552
+R599,7 Fora do tema,,,Performance Analysis of RESTFUL Web Services and RABBITMQ for Microservices based Systems on Cloud Environment,2024,Scopus + IEEE,,10.1109/inocon60754.2024.10511747
+R600,7 Fora do tema,,,Performance Impact of Microservice Granularity Decisions: An Empirical Evaluation Using the Service Weaver Framework,2024,Scopus,,10.1007/978-3-031-70797-1_13
+R601,7 Fora do tema,,,Performance Optimization Across the Edge-Cloud Continuum: A Multi-agent Rollout Approach for Cloud-Native Application Workload Placement,2024,Scopus,,10.1007/s42979-024-02630-w
+R602,7 Fora do tema,,,Practice of Alibaba cloud on elastic resource provisioning for large-scale microservices cluster,2024,Scopus,,10.1002/spe.3271
+R603,7 Fora do tema,,,Pre-allocated Capacity Quota Limiting System Based on Microservice; [基于微服务的预分配额度限流设计研究],2024,Scopus,,10.11896/jsjkx.231100125
+R604,7 Fora do tema,,,Python Data Cleaning and Preparation Best Practices: A practical guide to organizing and handling data from various sources and formats using Python,2024,Scopus,,
+R605,7 Fora do tema,,,RADF: Architecture decomposition for function as a service,2024,Scopus,,10.1002/spe.3276
+R606,7 Fora do tema,,,Reference Architecture for Microservices with an Optimized Inter-Service Communication Strategy,2024,Scopus + IEEE,,10.1109/scse61872.2024.10550466
+R607,7 Fora do tema,,,SIMA: Scalable IoT Microservice Architecture with Users and Things Joint Load Balancing,2024,Scopus + IEEE,,10.1109/jiot.2023.3317430
+R608,7 Fora do tema,,,Scalability Evaluation of Microservices Architecture for Banking Systems in Public Cloud,2024,Scopus,,10.1007/978-3-031-46970-1_10
+R609,7 Fora do tema,,,Servitization of Customized 3D Assets and Performance Comparison of Services and Microservices Implementations,2024,Scopus + IEEE,,10.1109/tsc.2023.3339991
+R610,7 Fora do tema,,,Software Architecture Survey From an Edge Computing Perspective,2024,Scopus + IEEE,,10.1109/ic-cgu58078.2024.10530838
+R611,7 Fora do tema,,,Softwarized and containerized microservices-based network management analysis with MSN,2024,Scopus,,10.1016/j.comnet.2024.110750
+R612,7 Fora do tema,,,Synthetic to Real-World: Insights on Microservices-Based Application Benchmarks,2024,Scopus + IEEE,,10.1109/iciteics61368.2024.10625221
+R613,7 Fora do tema,,,The Cloud-Native Revolution: Microservices in a Cloud-Driven World,2024,Scopus + IEEE,,10.1109/icicyta64807.2024.10913359
+R614,7 Fora do tema,,,The Utilisation and Implementation of the Istio Framework in the Architectonic Progression of Online Learning Platform,2024,Scopus + IEEE,,10.1109/ictech63197.2024.00043
+R615,7 Fora do tema,,,Towards Optimal Load Balancing in Multi-Zone Kubernetes Clusters via Reinforcement Learning,2024,Scopus + IEEE,,10.1109/icccn61486.2024.10637606
+R616,7 Fora do tema,,,URCD: Unsupervised Root Cause Detection in Microservices Architecture with HGAN,2024,Scopus + IEEE,,10.1109/icdcs60910.2024.00137
+R617,7 Fora do tema,,,"Using Micro Services Architecture to Improve Scalability, Flexibility, and Performance in E-Learning Platforms",2024,Scopus,,
+R618,7 Fora do tema,,,Using Observability to Detect Anti-patterns in Benchmarking Application with OpenTelemetry,2024,Scopus + IEEE,,10.1109/cloudnet62863.2024.10815858
+R619,7 Fora do tema,,,A Tertiary Study on Microservices: Research Trends and Recommendations,2023,Scopus,,10.1134/s0361768823080200
+R620,7 Fora do tema,,,A framework for implementing micro frontend architecture,2023,Scopus,,10.1504/ijwet.2022.129251
+R621,7 Fora do tema,,,Algorithms Scheduling Applied to Microservics Architectures: A Survey Study,2023,Scopus + IEEE,,10.1109/cloudtech58737.2023.10366166
+R622,7 Fora do tema,,,An Attention Mechanism-Based Microservice Placement Scheme for On-Star Edge Computing Nodes,2023,Scopus + IEEE,,10.1109/access.2023.3324222
+R623,7 Fora do tema,,,AutoMan: Resource-efficient provisioning with tail latency guarantees for microservices,2023,Scopus,,10.1016/j.future.2023.01.014
+R624,7 Fora do tema,,,"Automatic Measurement of Microservice Architecture Quality with Cohesion, Coupling, and Complexity Metrics",2023,Scopus + IEEE,,10.1109/icaicta59291.2023.10390525
+R625,7 Fora do tema,,,ChainsFormer: A Chain Latency-Aware Resource Provisioning Approach for Microservices Cluster,2023,Scopus,,10.1007/978-3-031-48421-6_14
+R626,7 Fora do tema,,,Chaos Engineering Tool Analysis; [Análise de Ferramentas de Engenharia de Caos],2023,Scopus + IEEE,,10.23919/cisti58278.2023.10211966
+R627,7 Fora do tema,,,Cloud-Native Applications’ Workload Placement over the Edge-Cloud Continuum,2023,Scopus,,10.5220/0011850100003488
+R628,7 Fora do tema,,,Detection and filling of functional holes in microservice systems: Method and infrastructure support,2023,Scopus,,10.1016/j.infsof.2023.107270
+R629,7 Fora do tema,,,Ditto: End-to-End Application Cloning for Networked Cloud Services,2023,Scopus + ACM,,10.1145/3575693.3575751
+R630,7 Fora do tema,,,Energy-Efficient and Communication-Aware Resource Allocation in Container-Based Cloud with Group Genetic Algorithm,2023,Scopus,,10.1007/978-3-031-48421-6_15
+R631,7 Fora do tema,,,Evaluation of a Smart Intercom Microservice System Based on the Cloud of Things,2023,Scopus,,10.3390/electronics12112406
+R632,7 Fora do tema,,,Exploiting Container-Based Microservices for Reliable Smart Mobility Applications,2023,Scopus,,
+R633,7 Fora do tema,,,Exploring Imbalances among Microservice Containers in Large Cloud Platforms,2023,Scopus + IEEE,,10.1109/ispa-bdcloud-socialcom-sustaincom59178.2023.00064
+R634,7 Fora do tema,,,Filling The Gaps in Microservice Frontend Communication: Case for New Frontend Patterns,2023,Scopus,,10.5220/0011812500003488
+R635,7 Fora do tema,,,Grace: Interpretable Root Cause Analysis by Graph Convolutional Network for Microservices,2023,Scopus + IEEE,,10.1109/iwqos57198.2023.10188728
+R636,7 Fora do tema,,,Heterogeneity-aware Load Balancing in Serverless Computing Environments,2023,Scopus + IEEE,,10.1109/iot60973.2023.10365354
+R637,7 Fora do tema,,,Implementations of Microservice on Self-service Application Using Service Oriented Modelling and Architecture: A Case Study,2023,Scopus,,10.33168/jsms.2023.0314
+R638,7 Fora do tema,,,Invited Paper: Towards Efficient Microservice Communication,2023,Scopus + ACM,,10.1145/3584684.3597267
+R639,7 Fora do tema,,,MALT: Fine-Grained Microservice Profiling for Request Latency Anomaly Localization,2023,Scopus + IEEE,,10.1109/hpcc-dss-smartcity-dependsys60770.2023.00025
+R640,7 Fora do tema,,,Microservices based Ticket Booking Platform deployed on Cloud,2023,Scopus + IEEE,,10.1109/ici60088.2023.10420939
+R641,7 Fora do tema,,,"Microservices, Containerization, and MPI",2023,IEEE,,10.1002/9781119825968.ch4
+R642,7 Fora do tema,,,Moving Microgrid Hierarchical Control to an SDN-Based Kubernetes Cluster: A Framework for Reliable and Flexible Energy Distribution,2023,Scopus,,10.3390/s23073395
+R643,7 Fora do tema,,,On Modular Learning of Distributed Systems for Predicting End-to-End Latency,2023,Scopus,,
+R644,7 Fora do tema,,,On the Temporal Behaviour of a Large-Scale Microservice Architecture,2023,Scopus + IEEE,,10.1109/noms56928.2023.10154427
+R645,7 Fora do tema,,,Optimized Strategy for Inter-Service Communication in Microservices,2023,Scopus,,10.14569/ijacsa.2023.0140233
+R646,7 Fora do tema,,,Performance Analysis of Microservices Behavior in Cloud vs Containerized Domain based on CPU Utilization,2023,Scopus,,10.17762/ijritcc.v11i6s.6959
+R647,7 Fora do tema,,,"Proceedings - 2023 11th International Conference in Software Engineering Research and Innovation, CONISOFT 2023",2023,Scopus,,
+R648,7 Fora do tema,,,"Proceedings - IEEE 20th International Conference on Software Architecture, ICSA 2023",2023,Scopus,,
+R649,7 Fora do tema,,,Proposing a Microservices Architecture for AMEL Information System Designed Using TOGAF-ADM,2023,Scopus + IEEE,,10.1109/ic3ina60834.2023.10285743
+R650,7 Fora do tema,,,Research Opportunities in Microservices Quality Assessment: A Systematic Literature Review,2023,Scopus,,10.12720/jait.14.5.991-1002
+R651,7 Fora do tema,,,Research on the Security of Internet of Things Based on Microservices Techniques,2023,Scopus + ACM,,10.1145/3656766.3656853
+R652,7 Fora do tema,,,Resource Configuration for Cross-Server Deployment of Application-Oriented Microservices in Cloud-Edge Continuum with SLO Constraints,2023,Scopus + IEEE,,10.1109/icpads60453.2023.00352
+R653,7 Fora do tema,,,SQL vs NoSQL Databases for the Microservices: A Comparative Survey,2023,Scopus + IEEE,,10.1109/icecaa58104.2023.10212190
+R654,7 Fora do tema,,,Scheduling Mechanisms in Serverless Computing,2023,Scopus,,10.1007/978-3-031-26633-1_10
+R655,7 Fora do tema,,,Solving Problems of Large Codebases: Uber’s Approach Using Microservice Architecture,2023,Scopus,,10.1007/978-981-19-5482-5_57
+R656,7 Fora do tema,,,Structural model of the microservice architecture of the control system for training complexes,2023,Scopus,,10.1063/5.0166558
+R657,7 Fora do tema,,,Synchronized Music Streaming Driven by Microservice Architecture,2023,Scopus + IEEE,,10.1109/cinti59972.2023.10382032
+R658,7 Fora do tema,,,The Cloud-Based Optimization for Automated Warehouse Design,2023,Scopus + IEEE,,10.1109/idaacs58523.2023.10348891
+R659,7 Fora do tema,,,"The role of microservice approach in edge computing: Opportunities, challenges, and research directions",2023,Scopus,,10.1016/j.icte.2023.06.006
+R660,7 Fora do tema,,,Trace-based Microservice Anomaly Detection through Deep Learning,2023,Scopus,,10.1117/12.2674784
+R661,7 Fora do tema,,,TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems,2023,Scopus + IEEE,,10.1109/tse.2023.3241299
+R662,7 Fora do tema,,,Uma Análise Abrangente de Soluções de Autenticação para Microsserviços: Uma Revisão Sistemática,2023,SOL,,
+R663,7 Fora do tema,,,User Authorization in Microservice-Based Applications,2023,Scopus,,10.3390/software2030019
+R664,7 Fora do tema,,,gym-hpa: Efficient Auto-Scaling via Reinforcement Learning for Complex Microservice-based Applications in Kubernetes,2023,Scopus,,10.1109/noms56928.2023.10154298
+R665,7 Fora do tema,,,μBench: An Open-Source Factory of Benchmark Microservice Applications,2023,Scopus + IEEE,,10.1109/tpds.2023.3236447
+R666,7 Fora do tema,,,μManycore: A Cloud-Native CPU for Tail at Scale,2023,Scopus + ACM,,10.1145/3579371.3589068
+R667,7 Fora do tema,,,A Cloud Computing web-based application for Smart Farming based on microservices architecture,2022,Scopus + IEEE,,10.1109/mocast54814.2022.9837727
+R668,7 Fora do tema,,,A Review on Database and Transaction Models in Different Cloud Application Architectures,2022,Scopus,,10.1007/978-981-16-7657-4_65
+R669,7 Fora do tema,,,A Systematic Mapping Study on Technical Debt in Microservices,2022,Scopus + IEEE,,10.1109/conisoft55708.2022.00032
+R670,7 Fora do tema,,,ANALYSIS AND DEVELOPMENT OF MICROSERVICES ARCHITECTURE IN LOAN APPLICATION SYSTEM OF COOPERATIVE ENTERPRISE IN INDONESIA,2022,Scopus,,
+R671,7 Fora do tema,,,Adjust: An Online Resource Adjustment Framework for Microservice Programs,2022,Scopus,,10.1007/978-3-031-21395-3_11
+R672,7 Fora do tema,,,Adopting microservice architecture: A decision support model based on genetically evolved multi-layer FCM,2022,Scopus,,10.1016/j.asoc.2021.108066
+R673,7 Fora do tema,,,An Empirical Analysis of IDS Approaches in Container Security,2022,Scopus + IEEE,,10.1109/srmc57347.2022.00007
+R674,7 Fora do tema,,,An In-Depth Study of Microservice Call Graph and Runtime Performance,2022,Scopus + IEEE,,10.1109/tpds.2022.3174631
+R675,7 Fora do tema,,,Analyzing and Monitoring Kubernetes Microservices based on Distributed Tracing and Service Mesh,2022,Scopus + IEEE,,10.1109/apsec57359.2022.00066
+R676,7 Fora do tema,,,BLOC: Balancing Load with Overload Control in the Microservices Architecture,2022,Scopus + IEEE,,10.1109/acsos55765.2022.00027
+R677,7 Fora do tema,,,Back to the future: N-Versioning of Microservices,2022,Scopus + IEEE,,10.1109/dsn53405.2022.00049
+R678,7 Fora do tema,,,Beginning spring data: Data access and persistence for spring framework 6 and Boot 3,2022,Scopus,,10.1007/978-1-4842-8764-4
+R679,7 Fora do tema,,,Building a Performance Efficient Core Banking System Based on the Microservices Architecture,2022,Scopus,,10.1007/s10723-022-09624-z
+R680,7 Fora do tema,,,CoScal: Multifaceted Scaling of Microservices With Reinforcement Learning,2022,Scopus + IEEE,,10.1109/tnsm.2022.3210211
+R681,7 Fora do tema,,,Comparing Interservice Communications of Microservices for E-Commerce Industry,2022,Scopus + IEEE,,10.1109/isdfs55398.2022.9800784
+R682,7 Fora do tema,,,Comparison of Representative Microservices Technologies in Terms of Performance for Use for Projects Based on Sensor Networks,2022,Scopus,,10.3390/s22207759
+R683,7 Fora do tema,,,Container Based Scalability and Performance Analysis of Multitenant SaaS Applications,2022,Scopus + IEEE,,10.1109/icccnt54827.2022.9984214
+R684,7 Fora do tema,,,DataXc: Flexible and efficient communication in microservices-based stream analytics pipelines,2022,Scopus + IEEE,,10.1109/dasc/picom/cbdcom/cy55231.2022.9927837
+R685,7 Fora do tema,,,Deep Attentive Anomaly Detection for Microservice Systems with Multimodal Time-Series Data,2022,Scopus + IEEE,,10.1109/icws55610.2022.00062
+R686,7 Fora do tema,,,Design and Implementation of a Cloud PACS Architecture,2022,Scopus,,10.3390/s22218569
+R687,7 Fora do tema,,,Design of a Geographic Information System for Forest and Land Fires Based on a Real-Time Database on Microservices Infrastructure,2022,Scopus + IEEE,,10.1109/iotais56727.2022.9975953
+R688,7 Fora do tema,,,Enabling Practical Cloud Performance Debugging with Unsupervised Learning,2022,Scopus + ACM,,10.1145/3544497.3544503
+R689,7 Fora do tema,,,Enabling rank-based distribution of microservices among containers for green cloud computing environment,2022,Scopus,,10.1007/s12083-021-01218-y
+R690,7 Fora do tema,,,Engineering Edge-Cloud Offloading of Big Data for Channel Modelling in THz-range Communications,2022,Scopus + IEEE,,10.23919/mipro55190.2022.9803375
+R691,7 Fora do tema,,,Evaluating the Inter-Service Communication on Microservice Architecture,2022,Scopus + IEEE,,10.1109/icitr57877.2022.9992918
+R692,7 Fora do tema,,,Event-Driven Architecture to Improve Performance and Scalability in Microservices-Based Systems,2022,Scopus + IEEE,,10.1109/icadeis56544.2022.10037390
+R693,7 Fora do tema,,,Exploring Efficient Microservice Level Parallelism,2022,Scopus + IEEE,,10.1109/ipdps53621.2022.00030
+R694,7 Fora do tema,,,Fog Native Architecture: Intent-Based Workflows to Take Cloud Native toward the Edge,2022,Scopus + IEEE,,10.1109/mcom.003.2101075
+R695,7 Fora do tema,,,Impact of Softwarization in Microservices-based SDN Controller,2022,Scopus + IEEE,,
+R696,7 Fora do tema,,,Implementation of Serverless E-Commerce Mobile Application,2022,Scopus + IEEE,,10.1109/conit55038.2022.9847829
+R697,7 Fora do tema,,,Improving datacenter utilization through containerized service-based architecture,2022,Scopus,,10.1186/s13677-022-00319-0
+R698,7 Fora do tema,,,Innovation and Business Model of Life and Health Sharing Platform Based on Algorithm of Naive Bayesian Model,2022,Scopus,,10.1155/2022/7441546
+R699,7 Fora do tema,,,Introducing Cloud-Assisted Micro-Service-Based Software Development Framework for Healthcare Systems,2022,Scopus,,10.1109/access.2022.3161455
+R700,7 Fora do tema,,,Latency and RAM Usage Comparison of Advanced and Lightweight Service Mesh,2022,Scopus + IEEE,,10.1109/isriti56927.2022.10052905
+R701,7 Fora do tema,,,Log Attention – Assessing Software Releases with Attention-Based Log Anomaly Detection,2022,Scopus,,10.1007/978-3-031-14135-5_11
+R702,7 Fora do tema,,,MICROSERVICE ARCHITECTURE DESIGN: PROPOSED for E-OFFICE APPLICATION,2022,Scopus,,
+R703,7 Fora do tema,,,MSN: A Playground Framework for Design and Evaluation of MicroServices-Based sdN Controller,2022,Scopus,,10.1007/s10922-021-09631-7
+R704,7 Fora do tema,,,MiSim: A Simulator for Resilience Assessment of Microservice-Based Architectures,2022,Scopus + IEEE,,10.1109/qrs57517.2022.00105
+R705,7 Fora do tema,,,Misertrace: Kernel-level request tracing for microservice visibility,2022,Scopus + ACM,,10.1145/3491204.3527462
+R706,7 Fora do tema,,,Moving Toward the Obsolescence of Obsolescence: A Walk in the Clouds,2022,Scopus + IEEE,,10.1109/autotestcon47462.2022.9984719
+R707,7 Fora do tema,,,Orchestrating the Resilience of Cloud Microservices Using Task-Based Reliability and Dynamic Costing,2022,Scopus + IEEE,,10.1109/csde56538.2022.10089320
+R708,7 Fora do tema,,,Practical and Scalable ML-Driven Cloud Performance Debugging with Sage,2022,Scopus + IEEE,,10.1109/mm.2022.3169445
+R709,7 Fora do tema,,,"Pro Cloud Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 10 APIs, and Kubernetes",2022,Scopus,,10.1007/978-1-4842-8900-6
+R710,7 Fora do tema,,,QoS-Aware Co-Scheduling for Distributed Long-Running Applications on Shared Clusters,2022,Scopus + IEEE,,10.1109/tpds.2022.3202493
+R711,7 Fora do tema,,,QoS-aware placement of microservices-based IoT applications in Fog computing environments,2022,Scopus,,10.1016/j.future.2022.01.012
+R712,7 Fora do tema,,,SCORE: A Resource-Efficient Microservice Orchestration Model Based on Spectral Clustering in Edge Computing,2022,Scopus,,10.1007/978-3-031-20984-0_13
+R713,7 Fora do tema,,,Service Mesh and eBPF-Powered Microservices: A Survey and Future Directions,2022,Scopus + IEEE,,10.1109/sose55356.2022.00027
+R714,7 Fora do tema,,,Taxonomical Classification and Systematic Review on Microservices,2022,Scopus,,10.14445/22315381/ijett-v70i3p225
+R715,7 Fora do tema,,,The Power of Prediction: Microservice Auto Scaling via Workload Learning,2022,Scopus + ACM,,10.1145/3542929.3563477
+R716,7 Fora do tema,,,Towards a Multi-Tenant Microservice Architecture: An Industrial Experience,2022,Scopus + IEEE,,10.1109/compsac54236.2022.00100
+R717,7 Fora do tema,,,"iFogSim2: An extended iFogSim simulator for mobility, clustering, and microservice management in edge and fog computing environments",2022,Scopus,,10.1016/j.jss.2022.111351
+R718,7 Fora do tema,,,"33rd International Conference on Advanced Information Systems Engineering, CAiSE 2021",2021,Scopus,,
+R719,7 Fora do tema,,,A Comparative Study of Software Architectures in Constrained Device IoT Deployments,2021,Scopus + IEEE,,10.1109/iotais53735.2021.9628703
+R720,7 Fora do tema,,,A Delivery Robot Cloud Platform Based on Microservice,2021,Scopus,,10.1155/2021/6656912
+R721,7 Fora do tema,,,A Discrete Dynamic Artificial Bee Colony with Hyper-Scout for RESTful web service API test suite generation,2021,Scopus,,10.1016/j.asoc.2021.107246
+R722,7 Fora do tema,,,A Microservice-Based System for Industrial Internet of Things in Fog-Cloud Assisted Network,2021,Scopus,,10.48084/etasr.4077
+R723,7 Fora do tema,,,"AlphaR: Learning-powered resource management for irregular, dynamic microservice graph",2021,Scopus + IEEE,,10.1109/ipdps49936.2021.00089
+R724,7 Fora do tema,,,An exploratory evaluation of replacing ESB with microservices in service-oriented architecture,2021,Scopus + IEEE,,10.1109/scse53661.2021.9568289
+R725,7 Fora do tema,,,Automated code transformation for context propagation in Go,2021,Scopus + ACM,,10.1145/3468264.3473918
+R726,7 Fora do tema,,,Automated performance prediction of microservice applications using simulation,2021,Scopus + IEEE,,10.1109/mascots53633.2021.9614260
+R727,7 Fora do tema,,,Benchmarking microservices architecture in improving user experience,2021,Scopus,,
+R728,7 Fora do tema,,,Building Agile Workflow Microservice System for HPC Applications Based on Fast-start OSv,2021,Scopus + IEEE,,10.1109/icpads53394.2021.00071
+R729,7 Fora do tema,,,Building an EdTech Platform Using Microservices and Docker,2021,Scopus + IEEE,,10.1109/punecon52575.2021.9686535
+R730,7 Fora do tema,,,Characterizing microservice dependency and performance: Alibaba trace analysis,2021,Scopus + ACM,,10.1145/3472883.3487003
+R731,7 Fora do tema,,,Characterizing network performance of single-node large-scale container deployments,2021,Scopus + IEEE,,10.1109/cloudnet53349.2021.9657138
+R732,7 Fora do tema,,,Dagger: Efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs,2021,Scopus + ACM,,10.1145/3445814.3446696
+R733,7 Fora do tema,,,Delay-Aware Microservice Coordination in Mobile Edge Computing: A Reinforcement Learning Approach,2021,Scopus + IEEE,,10.1109/tmc.2019.2957804
+R734,7 Fora do tema,,,FlexState: Flexible State Management of Network Functions,2021,Scopus,,10.1109/access.2021.3061814
+R735,7 Fora do tema,,,Insights into Multi-Layered Fault Propagation and Analysis in a Cloud Stack,2021,Scopus,,10.1109/cloud53861.2021.00092
+R736,7 Fora do tema,,,"International Conference Automatics and Informatics, ICAI 2021 Proceedings",2021,Scopus,,
+R737,7 Fora do tema,,,Kmon: An In-kernel Transparent Monitoring System for Microservice Systems with eBPF,2021,Scopus + IEEE,,10.1109/cloudintelligence52565.2021.00014
+R738,7 Fora do tema,,,"Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise",2021,IEEE,,
+R739,7 Fora do tema,,,Leveraging Service Meshes as a New Network Layer,2021,Scopus + ACM,,10.1145/3484266.3487379
+R740,7 Fora do tema,,,Microservices data mining for analytics feedback and optimization,2021,Scopus,,10.4018/ijeis.2021010102
+R741,7 Fora do tema,,,On revisiting energy and performance in microservices applications: A cloud elasticity-driven approach,2021,Scopus,,10.1016/j.parco.2021.102858
+R742,7 Fora do tema,,,On the Migration to and Synthesis of (Micro-)services: The Use of Intelligent Techniques,2021,Scopus,,10.1007/978-3-030-73203-5_4
+R743,7 Fora do tema,,,Open Source Software as the Main Driver for Evolving Software Systems Toward a Distributed and Performant E-Commerce Platform: A Zalando Fashion Store Case Study,2021,Scopus + IEEE,,10.1109/mitp.2020.2994993
+R744,7 Fora do tema,,,Optimizing microservices with hyperparameter optimization,2021,Scopus + IEEE,,10.1109/msn53354.2021.00105
+R745,7 Fora do tema,,,PHPA: A Proactive Autoscaling Framework for Microservice Chain,2021,Scopus + ACM,,10.1145/3469393.3469401
+R746,7 Fora do tema,,,Performance and Security Evaluation in Microservices Architecture Using Open Source Containers,2021,Scopus,,10.1007/978-3-030-71503-8_37
+R747,7 Fora do tema,,,Practical event-driven microservices architecture: Building sustainable and highly scalable event-driven microservices,2021,Scopus,,10.1007/978-1-4842-7468-2
+R748,7 Fora do tema,,,Pro Java Microservices with Quarkus and Kubernetes A Hands-on Guide,2021,Scopus,,10.1007/978-1-4842-7170-4
+R749,7 Fora do tema,,,"Proceedings - 29th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, MASCOTS 2021",2021,Scopus,,
+R750,7 Fora do tema,,,Run Wild: Resource Management System with Generalized Modeling for Microservices on Cloud,2021,Scopus + IEEE,,10.1109/cloud53861.2021.00079
+R751,7 Fora do tema,,,"SYMBIOMON: A High-Performance, Composable Monitoring Service",2021,Scopus + IEEE,,10.1109/hipc53243.2021.00047
+R752,7 Fora do tema,,,SaaS - Microservices-Based Scalable Smart Contract Architecture,2021,Scopus,,10.1007/978-981-16-0422-5_16
+R753,7 Fora do tema,,,Sage: Practical and scalable ML-driven performance debugging in microservices,2021,Scopus + ACM,,10.1145/3445814.3446700
+R754,7 Fora do tema,,,Security in microservices architectures,2021,Scopus,,10.1016/j.procs.2021.01.320
+R755,7 Fora do tema,,,Sinan: ML-based and QoS-aware resource management for cloud microservices,2021,Scopus + ACM,,10.1145/3445814.3446693
+R756,7 Fora do tema,,,T-Rank: A lightweight spectrum based fault localization approach for microservice systems,2021,Scopus + IEEE,,10.1109/ccgrid51090.2021.00051
+R757,7 Fora do tema,,,Understanding and addressing quality attributes of microservices architecture: A Systematic literature review,2021,Scopus,,10.1016/j.infsof.2020.106449
+R758,7 Fora do tema,,,Using Microservice Architecture as a Load Prediction Strategy for Management System of University Public Service,2021,Scopus,,10.18494/sam.2021.3048
+R759,7 Fora do tema,,,"14th European Conference on Software Architecture, ECSA 2020",2020,Scopus,,
+R760,7 Fora do tema,,,"5th International Conference on Information, Communication and Computing Technology, ICICCT 2020",2020,Scopus,,
+R761,7 Fora do tema,,,A Black-box Monitoring Approach to Measure Microservices Runtime Performance,2020,Scopus + ACM,,10.1145/3418899
+R762,7 Fora do tema,,,A causality mining and knowledge graph based method of root cause diagnosis for performance anomaly in cloud applications,2020,Scopus,,10.3390/app10062166
+R763,7 Fora do tema,,,A container orchestration development that optimizes the etherpad collaborative editing tool through a novel management system,2020,Scopus,,10.3390/electronics9050828
+R764,7 Fora do tema,,,A disaggregated packet processing architecture for network function virtualization,2020,Scopus + IEEE,,10.1109/jsac.2020.2986611
+R765,7 Fora do tema,,,A metrics framework for evaluating microservices architecture designs,2020,Scopus + IEEE,,10.13052/jwe1540-9589.19341
+R766,7 Fora do tema,,,A techno-economic assessment of microservices,2020,Scopus + IEEE,,10.23919/cnsm50824.2020.9269114
+R767,7 Fora do tema,,,Adaptive Containerization for Microservices in Distributed Cloud Systems,2020,Scopus + IEEE,,10.1109/ccnc46108.2020.9045634
+R768,7 Fora do tema,,,An Approach for Reconstructing Applications to Develop Container-Based Microservices,2020,Scopus,,10.1155/2020/4295937
+R769,7 Fora do tema,,,"Baltic-DB and IS-Forum-DC 2020 - Joint Proceedings of Baltic DB and IS 2020 Conference Forum and Doctoral Consortium, co-located with the 14th International Baltic Conference on Databases and Information Systems, Baltic DB and IS 2020",2020,Scopus,,
+R770,7 Fora do tema,,,Blendsps: A blockchain-enabled decentralized smart public safety system,2020,Scopus,,10.3390/smartcities3030047
+R771,7 Fora do tema,,,Building orchestrated microservice systems using declarative business processes,2020,Scopus,,10.1007/s11761-020-00300-2
+R772,7 Fora do tema,,,Characterizing bottlenecks in scheduling microservices on serverless platforms,2020,Scopus + IEEE,,10.1109/icdcs47774.2020.00195
+R773,7 Fora do tema,,,"Cloud-Based Microservices: Techniques, Challenges, and Solutions",2020,Scopus,,10.1007/978-1-4842-6564-2
+R774,7 Fora do tema,,,Designing microservice architectures for scalability and reliability in e-commerce,2020,Scopus,,10.1088/1742-6596/1450/1/012077
+R775,7 Fora do tema,,,Development Frameworks for Microservice-based Applications: Evaluation and Comparison,2020,Scopus + ACM,,10.1145/3393822.3432339
+R776,7 Fora do tema,,,Dynamic multi-objective scheduling of microservices in the cloud,2020,Scopus + IEEE,,10.1109/ucc48980.2020.00061
+R777,7 Fora do tema,,,Evaluation of Data Storage Patterns in Microservices Archicture,2020,Scopus + IEEE,,10.1109/sose50414.2020.9130516
+R778,7 Fora do tema,,,FERRET: Fall-back to LTE microservices for low latency data access,2020,Scopus,,
+R779,7 Fora do tema,,,FaaS2F: A framework for defining execution-sla in serverless computing,2020,Scopus + IEEE,,10.1109/ieeecloudsummit48914.2020.00015
+R780,7 Fora do tema,,,"Learn Microservices with Spring Boot: A Practical Approach to RESTful Services Using an Event-Driven Architecture, Cloud-Native Patterns, and Containerization",2020,Scopus,,10.1007/978-1-4842-6131-6
+R781,7 Fora do tema,,,Maximizing the serviceability of partially reconfigurable FPGA systems in multi-tenant environment,2020,Scopus + ACM,,10.1145/3373087.3375305
+R782,7 Fora do tema,,,MicroRCA: Root Cause Localization of Performance Issues in Microservices,2020,Scopus + IEEE,,10.1109/noms47738.2020.9110353
+R783,7 Fora do tema,,,Microservice Architecture Design for Big Data in Tactical Cloud,2020,Scopus,,10.1007/978-981-15-7530-3_31
+R784,7 Fora do tema,,,Microservices architecture for iot applications in the ocean: Microservices architecture based framework for reducing the complexity and increasing the scalability of iot applications in the ocean,2020,Scopus + IEEE,,10.1109/iccsa50381.2020.00025
+R785,7 Fora do tema,,,Microservices vs serverless: A performance comparison on a cloud-native web application,2020,Scopus,,
+R786,7 Fora do tema,,,"Microservices: Architecture, container, and challenges",2020,Scopus + IEEE,,10.1109/qrs-c51114.2020.00107
+R787,7 Fora do tema,,,Model Based Control for Microservices Applications,2020,IEEE,,10.1109/ieeeconf47748.2020.9377616
+R788,7 Fora do tema,,,Modular and distributed IDE,2020,Scopus,,10.1145/3426425.3426947
+R789,7 Fora do tema,,,Near real-time scheduling in cloud-edge platforms,2020,Scopus + ACM,,10.1145/3341105.3374046
+R790,7 Fora do tema,,,On cloud computing infrastructure for existing code-clone detection algorithms,2020,ACM,,10.1145/3392350.3392351
+R791,7 Fora do tema,,,Performance sensitivity of Operating System parameters in Microservice environments,2020,Scopus + IEEE,,10.1109/ccem50674.2020.00025
+R792,7 Fora do tema,,,RAD: Detecting performance anomalies in cloud-based Web services,2020,Scopus + IEEE,,10.1109/cloud49709.2020.00073
+R793,7 Fora do tema,,,Remodularization Analysis for Microservice Discovery Using Syntactic and Semantic Clustering,2020,Scopus,,10.1007/978-3-030-49435-3_1
+R794,7 Fora do tema,,,Research on Microservice Application Performance Monitoring Framework and Elastic Scaling Mode,2020,Scopus,,10.1088/1742-6596/1617/1/012048
+R795,7 Fora do tema,,,SATToSE 2020 - Proceedings of the 13th Seminar Series on Advanced Techniques and Tools for Software Evolution,2020,Scopus,,
+R796,7 Fora do tema,,,Semantic Local Planning for Mobile Robots through Path Optimization Services on the Edge: A Scenario-based Evaluation,2020,Scopus + IEEE,,10.1109/etfa46521.2020.9212092
+R797,7 Fora do tema,,,Situation Awareness in Degraded Environments 2020,2020,Scopus,,
+R798,7 Fora do tema,,,TOPOSCH: Latency-aware scheduling based on critical path analysis on shared yarn clusters,2020,Scopus + IEEE,,10.1109/cloud49709.2020.00091
+R799,7 Fora do tema,,,Towards a Methodology for creating Internet of Things (IoT) Applications based on Microservices,2020,Scopus + IEEE,,10.1109/scc49832.2020.00072
+R800,7 Fora do tema,,,Transactional Migration of Inhomogeneous Composite Cloud Applications,2020,Scopus,,10.1007/978-3-030-63161-1_3
+R801,7 Fora do tema,,,Verification of Microservices Using Metamorphic Testing,2020,Scopus,,10.1007/978-3-030-38991-8_10
+R802,7 Fora do tema,,,"13th European Conference on Software Engineering, ECSA 2019",2019,Scopus,,
+R803,7 Fora do tema,,,"18th International Conference on Computer Information Systems and Industrial Management Applications, CISIM 2019",2019,Scopus,,
+R804,7 Fora do tema,,,A Study of Lightweight DDDAS Architecture for Real-Time Public Safety Applications Through Hybrid Simulation,2019,Scopus + IEEE + ACM,,10.1109/wsc40007.2019.9004727
+R805,7 Fora do tema,,,A framework for monitoring microservice-oriented cloud applications in heterogeneous virtualization environments,2019,Scopus + IEEE,,10.1109/cloud.2019.00035
+R806,7 Fora do tema,,,A microservice based architecture to support offloading in mobile cloud computing,2019,Scopus + ACM + SOL,,10.1145/3357141.3357148
+R807,7 Fora do tema,,,A microservice based architecture topology for machine learning deployment,2019,Scopus + IEEE,,10.1109/isc246665.2019.9071708
+R808,7 Fora do tema,,,A review on shifting to microservices,2019,Scopus,,
+R809,7 Fora do tema,,,An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems,2019,Scopus + ACM,,10.1145/3297858.3304013
+R810,7 Fora do tema,,,Availability and scalability optimized microservice discovery from enterprise systems,2019,Scopus,,10.1007/978-3-030-33246-4_31
+R811,7 Fora do tema,,,BlendMAS: A blockchain-enabled decentralized microservices architecture for smart public safety,2019,Scopus + IEEE,,10.1109/blockchain.2019.00082
+R812,7 Fora do tema,,,BlendSM-DDM: BLockchain-ENabled secure microservices for decentralized data marketplaces,2019,Scopus + IEEE,,10.1109/isc246665.2019.9071766
+R813,7 Fora do tema,,,Cache Characterization of Workloads in a Microservice Environment,2019,Scopus + IEEE,,10.1109/ccem48484.2019.00010
+R814,7 Fora do tema,,,Case Study on data communication in microservice architecture,2019,Scopus + ACM,,10.1145/3338840.3355659
+R815,7 Fora do tema,,,Comparison of different CI/CD Tools integrated with cloud platform,2019,Scopus + IEEE,,10.1109/confluence.2019.8776985
+R816,7 Fora do tema,,,Designing Microservices with Django: An Overview of Tools and Practices,2019,Scopus,,10.1007/9781484253588
+R817,7 Fora do tema,,,Development of microservice based application e-inkubator: Incubation and investment service provider for SMEs,2019,Scopus,,10.1016/j.procs.2019.11.217
+R818,7 Fora do tema,,,Framework for Interaction between Databases and Microservice Architecture,2019,Scopus + IEEE,,10.1109/mitp.2018.2889268
+R819,7 Fora do tema,,,Implementation of Micro Services Architecture on Comrades Backend,2019,Scopus,,10.1088/1757-899x/662/2/022122
+R820,7 Fora do tema,,,Implementation of role-based access control on OAuth 2.0 as authentication and authorization system,2019,Scopus + IEEE,,10.23919/eecsi48112.2019.8977061
+R821,7 Fora do tema,,,Joint optimization of service request routing and instance placement in the microservice system,2019,Scopus,,10.1016/j.jnca.2019.102441
+R822,7 Fora do tema,,,Leveraging deep learning to improve performance predictability in cloud microservices with SEER,2019,Scopus + ACM,,10.1145/3352020.3352026
+R823,7 Fora do tema,,,Load Balancing for Interdependent IoT Microservices,2019,Scopus + IEEE,,10.1109/infocom.2019.8737450
+R824,7 Fora do tema,,,MMLite: A Scalable and Resource Efficient Control Plane for Next Generation Cellular Packet Core,2019,Scopus + ACM,,10.1145/3314148.3314345
+R825,7 Fora do tema,,,MicroNF: a microservice-based hybrid framework for NFV; [MicroNF:基于微服务的异构网络功能虚拟化框架],2019,Scopus,,10.11959/j.issn.1000-436x.2019131
+R826,7 Fora do tema,,,Microservices: Science and engineering,2019,Scopus,,10.1007/978-3-030-31646-4
+R827,7 Fora do tema,,,MsM: A microservice middleware for smart WSN-based IoT application,2019,Scopus,,10.1016/j.jnca.2019.06.015
+R828,7 Fora do tema,,,Open ICT-PaaS platform enabling 5G network slicing,2019,Scopus,,10.1049/iet-com.2018.5584
+R829,7 Fora do tema,,,Optimizing service placement for microservice architecture in clouds,2019,Scopus,,10.3390/app9214663
+R830,7 Fora do tema,,,Performance Analysis of Microservice Design Patterns,2019,Scopus + IEEE,,10.1109/mic.2019.2951094
+R831,7 Fora do tema,,,Performance analysis of monolithic and micro service architectures – containers technology,2019,Scopus,,10.1007/978-3-030-01171-0_25
+R832,7 Fora do tema,,,"Proceedings - 2019 18th International Symposium on Parallel and Distributed Computing, ISPDC 2019",2019,Scopus,,
+R833,7 Fora do tema,,,Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices,2019,Scopus + ACM,,10.1145/3297858.3304004
+R834,7 Fora do tema,,,ToLambda - Automatic path to serverless architectures,2019,Scopus + IEEE + ACM,,10.1109/iwor.2019.00008
+R835,7 Fora do tema,,,Toward Disaggregating the SDN Control Plane,2019,Scopus + IEEE,,10.1109/mcom.001.1900063
+R836,7 Fora do tema,,,Unleashing the scalability potential of power-constrained data center in the microservice era,2019,Scopus + ACM,,10.1145/3337821.3337857
+R837,7 Fora do tema,,,"stream-MSA: A microservices’ methodology for the creation of short, fast-paced, stream processing pipelines",2019,Scopus,,10.1016/j.icte.2019.04.001
+R838,7 Fora do tema,,,μqSim: Enabling Accurate and Scalable Simulation for Interactive Microservices,2019,Scopus + IEEE,,10.1109/ispass.2019.00034
+R839,7 Fora do tema,,,A generic distributed microservices and container based framework for metaheuristic optimization,2018,Scopus + ACM,,10.1145/3205651.3208253
+R840,7 Fora do tema,,,"A microservice based reference architecture for interoperable, flexible and robust warning systems; [Eine Mikroservice-basierte Referenzarchitektur für interoperable, flexible und robuste Warnsysteme]",2018,Scopus,,
+R841,7 Fora do tema,,,A rule-based system for automated generation of serverless-microservices architecture,2018,Scopus + IEEE,,10.1109/syseng.2018.8544423
+R842,7 Fora do tema,,,An NFV and microservice based architecture for on-the-fly component provisioning in content delivery networks,2018,Scopus + IEEE,,10.1109/ccnc.2018.8319227
+R843,7 Fora do tema,,,An extensible fault tolerance testing framework for microservice-based cloud applications,2018,Scopus + ACM,,10.1145/3290420.3290476
+R844,7 Fora do tema,,,Architecture Decision on using Microservices or Serverless Functions with Containers,2018,Scopus + IEEE,,10.1109/icctct.2018.8551035
+R845,7 Fora do tema,,,Boosting the Cloud meta-operating system with heterogeneous kernels. A novel approach based on containers and microservices,2018,Scopus,,10.25103/jestr.111.12
+R846,7 Fora do tema,,,Discovering microservices in enterprise systems using a business object containment heuristic,2018,Scopus,,10.1007/978-3-030-02671-4_4
+R847,7 Fora do tema,,,High performance userspace networking for containerized microservices,2018,Scopus,,10.1007/978-3-030-03596-9_4
+R848,7 Fora do tema,,,Microscope: Pinpoint performance issues with causal graphs in micro-service environments,2018,Scopus,,10.1007/978-3-030-03596-9_1
+R849,7 Fora do tema,,,"Mobilytics-an extensible, modular and resilient mobility platform",2018,Scopus + IEEE,,10.1109/smartcomp.2018.00029
+R850,7 Fora do tema,,,Response time characterization of microservice-based systems,2018,Scopus,,10.1109/nca.2018.8548062
+R851,7 Fora do tema,,,SOA vs MSOA Comparative Analysis,2018,Scopus + IEEE,,10.1109/iceest.2018.8643315
+R852,7 Fora do tema,,,Scaling Network Traffic Logger with Microservice Architecture,2018,Scopus + IEEE,,10.1109/icsse.2018.8520153
+R853,7 Fora do tema,,,The architectural implications of cloud microservices,2018,Scopus + IEEE,,10.1109/lca.2018.2839189
+R854,7 Fora do tema,,,"The past, present and future of technical debt: learning from the past to prepare for the future",2018,ACM,,10.1145/3194164.3194181
+R855,7 Fora do tema,,,TheArchitect: A Serverless-Microservices Based High-level Architecture Generation Tool,2018,Scopus + IEEE,,10.1109/icis.2018.8466390
+R856,7 Fora do tema,,,µNDN: An orchestrated microservice architecture for named data networking,2018,Scopus + ACM,,10.1145/3267955.3267961
+R857,7 Fora do tema,,,"22nd International Conference on Parallel and Distributed Computing, Euro-Par 2016",2017,Scopus,,
+R858,7 Fora do tema,,,A VNF-as-a-service design through micro-services disassembling the IMS,2017,Scopus + IEEE,,10.1109/icin.2017.7899412
+R859,7 Fora do tema,,,A decentralized system for load balancing of containerized microservices in the cloud,2017,Scopus,,10.1007/978-3-319-48944-5_14
+R860,7 Fora do tema,,,Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling,2017,Scopus,,10.1007/978-1-4842-2887-6
+R861,7 Fora do tema,,,Application of mixed distributed software architectures for social-productive projects management in peru,2017,Scopus + IEEE,,10.1109/intercon.2017.8079698
+R862,7 Fora do tema,,,Asynchronous queue based approach for building reactive microservices,2017,Scopus + ACM + SOL,,10.1145/3126858.3126873
+R863,7 Fora do tema,,,Building scalable digital library ingestion pipelines using microservices,2017,Scopus,,10.1007/978-3-319-70863-8_27
+R864,7 Fora do tema,,,Container-based microservice architecture for cloud applications,2017,Scopus + IEEE,,10.1109/ccaa.2017.8229914
+R865,7 Fora do tema,,,Content,2017,IEEE,,10.1109/cimps.2017.8169961
+R866,7 Fora do tema,,,"Microservice architectures for scalability, agility and reliability in e-commerce",2017,Scopus + IEEE,,10.1109/icsaw.2017.11
+R867,7 Fora do tema,,,Microservices architecture in DevOps,2017,Scopus + IEEE,,10.1109/apsecw.2017.18
+R868,7 Fora do tema,,,"Microservices in agile software development: A workshop-based study into issues, advantages, and disadvantages",2017,Scopus,,10.1145/3120459.3120483
+R869,7 Fora do tema,,,"Proceedings - 2017 IEEE 6th International Conference on AI and Mobile Services, AIMS 2017",2017,Scopus,,
+R870,7 Fora do tema,,,Requirements reconciliation for scalable and secure microservice (de)composition,2017,Scopus + IEEE,,10.1109/rew.2016.14
+R871,7 Fora do tema,,,The evolution of distributed systems towards microservices architecture,2017,Scopus + IEEE,,10.1109/icitst.2016.7856721
+R872,7 Fora do tema,,,An Architecture to Automate Performance Tests on Microservices,2016,Scopus + ACM,,10.1145/3011141.3011179
+R873,7 Fora do tema,,,CIDE: An integrated development environment for microservices,2016,Scopus + IEEE,,10.1109/scc.2016.112
+R874,7 Fora do tema,,,Performance evaluation of microservices architectures using containers,2016,Scopus + IEEE,,10.1109/nca.2015.49
+R875,7 Fora do tema,,,"Proceedings - 2016 16th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing, CCGrid 2016",2016,Scopus,,
+R876,7 Fora do tema,,,The hidden dividends of microservices,2016,Scopus + ACM,,10.1145/2948985
+R877,7 Fora do tema,,,Towards a more reliable and robust Cloud Meta-Operating System based on heterogeneous kernels: A novel approach based on containers and microservices,2016,Scopus + ACM,,10.1145/3010089.3010092
+R878,7 Fora do tema,,,Workload characterization for microservices,2016,Scopus + IEEE,,10.1109/iiswc.2016.7581269
