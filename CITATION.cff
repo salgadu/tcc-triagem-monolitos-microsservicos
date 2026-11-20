@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se você utilizar os scripts ou os dados derivados deste repositório, cite conforme os metadados abaixo."
+title: "Triagem dos registros da busca: scripts e dados do TCC"
+abstract: "Scripts de deduplicação, pré-classificação por expressões regulares e amostragem de falsos negativos, acompanhados das planilhas sanitizadas de triagem e de extração de 11 estudos do Trabalho de Conclusão de Curso sobre modernização de arquiteturas de software (migração de monólitos para microsserviços baseada em resiliência e desempenho)."
+type: software
+version: "1.0.0"
+date-released: "2026-11-20"
+license: "MIT"
+authors:
+  - family-names: "Costa"
+    given-names: "Rodrigo Salgado da"
+    affiliation: "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA)"
+keywords:
+  - "microservices"
+  - "monolith migration"
+  - "software architecture"
+  - "resilience"
+  - "performance"
+  - "literature review"
+  - "reproducibility"
+# Atualize os campos abaixo após criar o repositório no GitHub e arquivar a release v1.0.0 no Zenodo:
+repository-code: "https://github.com/SEU_USUARIO/SEU_REPOSITORIO"
+doi: "10.5281/zenodo.XXXXXXX"
