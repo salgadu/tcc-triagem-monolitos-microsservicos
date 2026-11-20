@@ -8,7 +8,7 @@ Este repositório disponibiliza os scripts de deduplicação, pré-classificaç�
 
 - **Data da busca nas bases:** 12/11/2026
 - **Data da revisão manual (Quadro 7, Apêndice A do TCC):** 13/11/2026
-- **Reconstituição da etapa 3:** a regra de pré-classificação da etapa 3 (`scripts/03_pre_classificar.py`) foi reconstituída a partir da classificação original e reproduz exatamente a planilha de triagem gerada no estudo.
+- **Script da etapa 3:** o arquivo original do script de pré-classificação (`scripts/03_pre_classificar.py`) não foi preservado; a versão publicada reaplica as mesmas regras de palavras-chave usadas na triagem e reproduz byte a byte a planilha de triagem do estudo.
 
 ## Estrutura do repositório
 

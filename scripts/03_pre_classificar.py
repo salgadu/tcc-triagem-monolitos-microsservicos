@@ -1,7 +1,7 @@
 """Etapa 3 - Pré-classificação por termos (regex) e geração de dados/triagem.csv.
 
-As regras abaixo foram reconstituídas a partir da classificação original usada
-no TCC; a execução reproduz exatamente a planilha de triagem do estudo.
+O arquivo original desta etapa não foi preservado; esta versão reaplica as
+mesmas regras usadas na triagem e reproduz byte a byte a planilha do estudo.
 
 A pré-classificação é um APOIO à triagem por título e resumo, não uma decisão
 de inclusão. Ela separa os registros que tratam do tema (migração ou
