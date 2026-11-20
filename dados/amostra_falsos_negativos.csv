@@ -1,51 +1,51 @@
 semente,id_registro,titulo,ano,doi,bases,decisao_manual,justificativa
-42,R717,"iFogSim2: An extended iFogSim simulator for mobility, clustering, and microservice management in edge and fog computing environments",2022,10.1016/j.jss.2022.111351,Scopus,,
-42,R447,Microservice-Oriented Cyber Deception Platform with Containerized Honeypots and Real-Time Telemetry,2026,10.3390/jcp6040117,Scopus,,
-42,R402,ATC: An Active Cellular Network Architecture for Application Performance Guarantee in 6G,2026,10.1109/mcom.001.2500452,Scopus + IEEE,,
-42,R769,"Baltic-DB and IS-Forum-DC 2020 - Joint Proceedings of Baltic DB and IS 2020 Conference Forum and Doctoral Consortium, co-located with the 14th International Baltic Conference on Databases and Information Systems, Baltic DB and IS 2020",2020,,Scopus,,
-42,R530,Pro Microservices in.NET 10: A Holistic Approach to Building Microservices in C#,2025,10.1007/979-8-8688-2049-6,Scopus,,
-42,R515,Innovative Framework for Secure and Scalable Web and Mobile Application Development in Fintech: A User- Centric and AI - Driven Approach,2025,10.1109/icuis67429.2025.11380645,Scopus + IEEE,,
-42,R504,Does microservice adoption impact the velocity? A cohort study,2025,10.1007/s10664-025-10673-7,Scopus,,
-42,R461,Service-Oriented Digital Validation Ecosystems: A Microservices Architecture for Lifecycle Management of Pharmaceutical CQV Systems,2026,10.1109/tic68483.2026.11702930,Scopus + IEEE,,
-42,R767,Adaptive Containerization for Microservices in Distributed Cloud Systems,2020,10.1109/ccnc46108.2020.9045634,Scopus + IEEE,,
-42,R442,Impact of Microservices Architecture on Computational Efficiency of Climate,2026,10.1145/3844275.3844351,ACM,,
-42,R736,"International Conference Automatics and Informatics, ICAI 2021 Proceedings",2021,,Scopus,,
-42,R846,Discovering microservices in enterprise systems using a business object containment heuristic,2018,10.1007/978-3-030-02671-4_4,Scopus,,
-42,R669,A Systematic Mapping Study on Technical Debt in Microservices,2022,10.1109/conisoft55708.2022.00032,Scopus + IEEE,,
-42,R434,Feature Selection Methods for Intelligent Software Performance Monitoring Based on Machine Learning,2026,10.5815/ijem.2026.03.13,Scopus,,
-42,R692,Event-Driven Architecture to Improve Performance and Scalability in Microservices-Based Systems,2022,10.1109/icadeis56544.2022.10037390,Scopus + IEEE,,
-42,R606,Reference Architecture for Microservices with an Optimized Inter-Service Communication Strategy,2024,10.1109/scse61872.2024.10550466,Scopus + IEEE,,
-42,R406,Autonomous Cloud Infrastructure and Self-Healing Systems,2026,10.1002/9781394382484.ch11,Scopus,,
-42,R405,An Experimental Evaluation of Layered Security Controls for Inter-Service Communication in Containerised Microservices,2026,10.3390/app16199502,Scopus,,
-42,R437,From Prototype to Platform: Cloud-Native AI at Scale,2026,10.1109/bdai70753.2026.11655158,Scopus + IEEE,,
-42,R501,Designing Scalable Microservices for Credit Card Authorization Systems,2025,10.1109/icat2i69744.2025.11472755,Scopus + IEEE,,
-42,R509,Enhancing Distributed System Performance with an Intelligent Multi-Agent Microservices Architecture,2025,10.3991/ijim.v19i24.56299,Scopus,,
-42,R648,"Proceedings - IEEE 20th International Conference on Software Architecture, ICSA 2023",2023,,Scopus,,
-42,R698,Innovation and Business Model of Life and Health Sharing Platform Based on Algorithm of Naive Bayesian Model,2022,10.1155/2022/7441546,Scopus,,
-42,R403,AgenticOTA: An Agentic AI Pipeline for Context-Aware Over-the-Air Update Deployments in Connected Autonomous Vehicles,2026,10.1109/tsc.2026.3700604,Scopus + IEEE,,
-42,R677,Back to the future: N-Versioning of Microservices,2022,10.1109/dsn53405.2022.00049,Scopus + IEEE,,
-42,R491,Automated Cloud-Native Dynamic Network Policy Generation Based on Microservices Topology,2025,10.1007/978-981-96-9914-8_22,Scopus,,
-42,R756,T-Rank: A lightweight spectrum based fault localization approach for microservice systems,2021,10.1109/ccgrid51090.2021.00051,Scopus + IEEE,,
-42,R722,A Microservice-Based System for Industrial Internet of Things in Fog-Cloud Assisted Network,2021,10.48084/etasr.4077,Scopus,,
-42,R749,"Proceedings - 29th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, MASCOTS 2021",2021,,Scopus,,
-42,R604,Python Data Cleaning and Preparation Best Practices: A practical guide to organizing and handling data from various sources and formats using Python,2024,,Scopus,,
-42,R502,Designing and Implementing LLM Guardrails Components in Production Environments,2025,10.1109/cain66642.2025.00010,Scopus + IEEE,,
-42,R619,A Tertiary Study on Microservices: Research Trends and Recommendations,2023,10.1134/s0361768823080200,Scopus,,
-42,R691,Evaluating the Inter-Service Communication on Microservice Architecture,2022,10.1109/icitr57877.2022.9992918,Scopus + IEEE,,
-42,R532,Research of Cloud-Native-Based Software-Defined Radar Information Processing Architecture,2025,10.1109/eei67650.2025.11334864,Scopus + IEEE,,
-42,R804,A Study of Lightweight DDDAS Architecture for Real-Time Public Safety Applications Through Hybrid Simulation,2019,10.1109/wsc40007.2019.9004727,Scopus + IEEE + ACM,,
-42,R835,Toward Disaggregating the SDN Control Plane,2019,10.1109/mcom.001.1900063,Scopus + IEEE,,
-42,R393,A Cloud-Native Blockchain-Integrated Architecture for Digital Credential Management in Learning Management Systems: Empirical Performance Evaluation and Deployment Trade-Offs,2026,10.3390/app16126198,Scopus,,
-42,R778,FERRET: Fall-back to LTE microservices for low latency data access,2020,,Scopus,,
-42,R802,"13th European Conference on Software Engineering, ECSA 2019",2019,,Scopus,,
-42,R471,A New Generation Electric Information Acquisition System Based on Microservice Architecture,2025,10.1109/aeeca65693.2025.00063,Scopus + IEEE,,
-42,R747,Practical event-driven microservices architecture: Building sustainable and highly scalable event-driven microservices,2021,10.1007/978-1-4842-7468-2,Scopus,,
-42,R564,Development of Applications Based on Microservices - Case Study of Ministry of Economy and Finance of Paraguay,2024,10.1109/clei64178.2024.10700123,Scopus + IEEE,,
-42,R469,WORKLOAD-AWARE DEPLOYMENT DECISION-MAKING IN MICROSERVICE ARCHITECTURES: AN EMPIRICAL FRAMEWORK WITH PERFORMANCE INDEX,2026,10.5281/zenodo.20497613,Scopus,,
-42,R500,Design and implementation analysis of microservices architecture for enterprise management software based on DevOps,2025,10.1117/12.3075658,Scopus,,
-42,R780,"Learn Microservices with Spring Boot: A Practical Approach to RESTful Services Using an Event-Driven Architecture, Cloud-Native Patterns, and Containerization",2020,10.1007/978-1-4842-6131-6,Scopus,,
-42,R562,DeepMRA: An Efficient Microservices Resource Allocation Framework with Deep Reinforcement Learning in the Cloud,2024,10.1007/978-981-97-5581-3_37,Scopus,,
-42,R584,Intelligent Agent support for Topology Learning in microservices-based SDN Controller,2024,10.1109/icc51166.2024.10622390,Scopus,,
-42,R439,Generative AI-Driven Enterprise Content Management: A Microservices Framework Leveraging Reinforcement Learning for Scalable and Resilient Financial Systems,2026,10.1109/iccbi68589.2026.11619809,Scopus + IEEE,,
-42,R573,End-To-End Cloud Application Cloning with Ditto,2024,10.1109/mm.2024.3419067,Scopus + IEEE,,
-42,R823,Load Balancing for Interdependent IoT Microservices,2019,10.1109/infocom.2019.8737450,Scopus + IEEE,,
+42,R717,"iFogSim2: An extended iFogSim simulator for mobility, clustering, and microservice management in edge and fog computing environments",2022,10.1016/j.jss.2022.111351,Scopus,não,"Simulador de computação em névoa e borda (iFogSim2), fora do escopo de migração"
+42,R447,Microservice-Oriented Cyber Deception Platform with Containerized Honeypots and Real-Time Telemetry,2026,10.3390/jcp6040117,Scopus,não,Plataforma de segurança e honeypots em contêineres; menção a monólito apenas como contexto
+42,R402,ATC: An Active Cellular Network Architecture for Application Performance Guarantee in 6G,2026,10.1109/mcom.001.2500452,Scopus + IEEE,não,"Arquitetura de rede celular 6G, sem relação com migração de aplicações"
+42,R769,"Baltic-DB and IS-Forum-DC 2020 - Joint Proceedings of Baltic DB and IS 2020 Conference Forum and Doctoral Consortium, co-located with the 14th International Baltic Conference on Databases and Information Systems, Baltic DB and IS 2020",2020,,Scopus,não,"Anais completos de conferência (Conference review), não é estudo individual"
+42,R530,Pro Microservices in.NET 10: A Holistic Approach to Building Microservices in C#,2025,10.1007/979-8-8688-2049-6,Scopus,não,"Livro prático/tutorial sobre desenvolvimento em .NET 10, sem método empírico"
+42,R515,Innovative Framework for Secure and Scalable Web and Mobile Application Development in Fintech: A User- Centric and AI - Driven Approach,2025,10.1109/icuis67429.2025.11380645,Scopus + IEEE,não,"Proposta de framework DevSecOps e IA para fintechs, sem migração ou comparação de legado"
+42,R504,Does microservice adoption impact the velocity? A cohort study,2025,10.1007/s10664-025-10673-7,Scopus,sim,Estudo empírico de coorte no GitHub comparando velocidade de manutenção entre microsserviços e monólitos
+42,R461,Service-Oriented Digital Validation Ecosystems: A Microservices Architecture for Lifecycle Management of Pharmaceutical CQV Systems,2026,10.1109/tic68483.2026.11702930,Scopus + IEEE,não,"Proposta de sistema de validação farmacêutica (CQV) em microsserviços, domínio específico"
+42,R767,Adaptive Containerization for Microservices in Distributed Cloud Systems,2020,10.1109/ccnc46108.2020.9045634,Scopus + IEEE,não,"Alocação adaptativa de recursos em contêineres de microsserviços, sem relação com migração"
+42,R442,Impact of Microservices Architecture on Computational Efficiency of Climate,2026,10.1145/3844275.3844351,ACM,sim,Simulação que avalia decomposição de motores monolíticos de risco em microsserviços (resumo parcial da ACM)
+42,R736,"International Conference Automatics and Informatics, ICAI 2021 Proceedings",2021,,Scopus,não,"Anais completos de conferência (Conference review), não é estudo individual"
+42,R846,Discovering microservices in enterprise systems using a business object containment heuristic,2018,10.1007/978-3-030-02671-4_4,Scopus,sim,Técnica de decomposição e reengenharia de sistemas corporativos monolíticos (SugarCRM e ChurchCRM) em microsserviços
+42,R669,A Systematic Mapping Study on Technical Debt in Microservices,2022,10.1109/conisoft55708.2022.00032,Scopus + IEEE,limítrofe,Mapeamento sistemático sobre dívida técnica em microsserviços; cita migração de monólito como uma das origens
+42,R434,Feature Selection Methods for Intelligent Software Performance Monitoring Based on Machine Learning,2026,10.5815/ijem.2026.03.13,Scopus,não,Seleção de atributos com aprendizado de máquina para monitoramento de desempenho
+42,R692,Event-Driven Architecture to Improve Performance and Scalability in Microservices-Based Systems,2022,10.1109/icadeis56544.2022.10037390,Scopus + IEEE,não,"Compara comunicação orientada a eventos (EDA) e síncrona dentro de microsserviços, sem monólito"
+42,R606,Reference Architecture for Microservices with an Optimized Inter-Service Communication Strategy,2024,10.1109/scse61872.2024.10550466,Scopus + IEEE,não,"Arquitetura de referência para comunicação TCP entre microsserviços, sem migração"
+42,R406,Autonomous Cloud Infrastructure and Self-Healing Systems,2026,10.1002/9781394382484.ch11,Scopus,não,"Capítulo de livro sobre DevSecOps e nuvem autônoma, sem foco em migração de monólitos"
+42,R405,An Experimental Evaluation of Layered Security Controls for Inter-Service Communication in Containerised Microservices,2026,10.3390/app16199502,Scopus,não,Avaliação experimental de controles de segurança (JWT e mTLS) entre microsserviços
+42,R437,From Prototype to Platform: Cloud-Native AI at Scale,2026,10.1109/bdai70753.2026.11655158,Scopus + IEEE,sim,"Comparação empírica controlada entre implantação em microsserviços e linha de base monolítica (p95, vazão e escala)"
+42,R501,Designing Scalable Microservices for Credit Card Authorization Systems,2025,10.1109/icat2i69744.2025.11472755,Scopus + IEEE,não,"Projeto de sistema específico de autorização de cartões em Kubernetes, com comparação simulada secundária"
+42,R509,Enhancing Distributed System Performance with an Intelligent Multi-Agent Microservices Architecture,2025,10.3991/ijim.v19i24.56299,Scopus,não,"Orquestração multiagente com aprendizado por reforço em microsserviços, fora do foco de migração"
+42,R648,"Proceedings - IEEE 20th International Conference on Software Architecture, ICSA 2023",2023,,Scopus,não,"Anais completos de conferência (Conference review), não é estudo individual"
+42,R698,Innovation and Business Model of Life and Health Sharing Platform Based on Algorithm of Naive Bayesian Model,2022,10.1155/2022/7441546,Scopus,não,"Modelo de negócios de plataforma de economia compartilhada com Naive Bayes, fora do tema"
+42,R403,AgenticOTA: An Agentic AI Pipeline for Context-Aware Over-the-Air Update Deployments in Connected Autonomous Vehicles,2026,10.1109/tsc.2026.3700604,Scopus + IEEE,não,Pipeline de atualizações OTA com IA para veículos autônomos conectados
+42,R677,Back to the future: N-Versioning of Microservices,2022,10.1109/dsn53405.2022.00049,Scopus + IEEE,não,Técnica de segurança (N-versionamento) contra vulnerabilidades OWASP em microsserviços
+42,R491,Automated Cloud-Native Dynamic Network Policy Generation Based on Microservices Topology,2025,10.1007/978-981-96-9914-8_22,Scopus,não,Geração automática de políticas de rede baseadas em topologia de microsserviços
+42,R756,T-Rank: A lightweight spectrum based fault localization approach for microservice systems,2021,10.1109/ccgrid51090.2021.00051,Scopus + IEEE,não,Ferramenta de localização de causa raiz (T-Rank) em sistemas de microsserviços
+42,R722,A Microservice-Based System for Industrial Internet of Things in Fog-Cloud Assisted Network,2021,10.48084/etasr.4077,Scopus,não,Arquitetura de microsserviços para IIoT em rede névoa-nuvem comparada a SOA
+42,R749,"Proceedings - 29th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, MASCOTS 2021",2021,,Scopus,não,"Anais completos de conferência (Conference review), não é estudo individual"
+42,R604,Python Data Cleaning and Preparation Best Practices: A practical guide to organizing and handling data from various sources and formats using Python,2024,,Scopus,não,Livro prático de limpeza de dados em Python; resumo corrompido na Scopus descreve outra obra
+42,R502,Designing and Implementing LLM Guardrails Components in Production Environments,2025,10.1109/cain66642.2025.00010,Scopus + IEEE,sim,Relato de experiência de migração de uma implementação monolítica para microsserviços com comparação de desempenho
+42,R619,A Tertiary Study on Microservices: Research Trends and Recommendations,2023,10.1134/s0361768823080200,Scopus,limítrofe,Estudo terciário amplo sobre microsserviços (44 revisões); cobre migração de legados como um entre vários eixos
+42,R691,Evaluating the Inter-Service Communication on Microservice Architecture,2022,10.1109/icitr57877.2022.9992918,Scopus + IEEE,não,"Compara protocolos de comunicação (gRPC, HTTP e WebSocket) entre microsserviços"
+42,R532,Research of Cloud-Native-Based Software-Defined Radar Information Processing Architecture,2025,10.1109/eei67650.2025.11334864,Scopus + IEEE,não,"Arquitetura de processamento de sinais de radar baseada em nuvem, domínio específico"
+42,R804,A Study of Lightweight DDDAS Architecture for Real-Time Public Safety Applications Through Hybrid Simulation,2019,10.1109/wsc40007.2019.9004727,Scopus + IEEE + ACM,não,Simulação de arquitetura DDDAS e blockchain para segurança pública em cidades inteligentes
+42,R835,Toward Disaggregating the SDN Control Plane,2019,10.1109/mcom.001.1900063,Scopus + IEEE,não,"Desagregação do plano de controle de redes SDN (infraestrutura de redes, mesmo critério de 5G RAN)"
+42,R393,A Cloud-Native Blockchain-Integrated Architecture for Digital Credential Management in Learning Management Systems: Empirical Performance Evaluation and Deployment Trade-Offs,2026,10.3390/app16126198,Scopus,limítrofe,"Foco em arquitetura blockchain para credenciais em LMS, mas inclui benchmark comparando monólito e microsserviços"
+42,R778,FERRET: Fall-back to LTE microservices for low latency data access,2020,,Scopus,não,Funções de rede móvel LTE em microsserviços (infraestrutura de telecomunicações)
+42,R802,"13th European Conference on Software Engineering, ECSA 2019",2019,,Scopus,não,"Anais completos de conferência (Conference review), não é estudo individual"
+42,R471,A New Generation Electric Information Acquisition System Based on Microservice Architecture,2025,10.1109/aeeca65693.2025.00063,Scopus + IEEE,não,Projeto de sistema de domínio específico para aquisição de dados elétricos (smart grid)
+42,R747,Practical event-driven microservices architecture: Building sustainable and highly scalable event-driven microservices,2021,10.1007/978-1-4842-7468-2,Scopus,não,"Livro técnico sobre arquitetura orientada a eventos, sem método empírico ou de revisão"
+42,R564,Development of Applications Based on Microservices - Case Study of Ministry of Economy and Finance of Paraguay,2024,10.1109/clei64178.2024.10700123,Scopus + IEEE,limítrofe,"Estudo de caso de integração de microsserviços em órgão público com subsistemas monolíticos, com foco descritivo na solução"
+42,R469,WORKLOAD-AWARE DEPLOYMENT DECISION-MAKING IN MICROSERVICE ARCHITECTURES: AN EMPIRICAL FRAMEWORK WITH PERFORMANCE INDEX,2026,10.5281/zenodo.20497613,Scopus,sim,Avaliação experimental de desempenho comparando implantação monolítica e microsserviços sob dois perfis de carga
+42,R500,Design and implementation analysis of microservices architecture for enterprise management software based on DevOps,2025,10.1117/12.3075658,Scopus,não,"Projeto de sistema de gestão empresarial para cidades inteligentes com DevOps, sem foco em migração"
+42,R780,"Learn Microservices with Spring Boot: A Practical Approach to RESTful Services Using an Event-Driven Architecture, Cloud-Native Patterns, and Containerization",2020,10.1007/978-1-4842-6131-6,Scopus,não,Livro tutorial de desenvolvimento de microsserviços com Spring Boot
+42,R562,DeepMRA: An Efficient Microservices Resource Allocation Framework with Deep Reinforcement Learning in the Cloud,2024,10.1007/978-981-97-5581-3_37,Scopus,não,Alocação dinâmica de recursos em nuvem para microsserviços com aprendizado por reforço
+42,R584,Intelligent Agent support for Topology Learning in microservices-based SDN Controller,2024,10.1109/icc51166.2024.10622390,Scopus,não,Agentes inteligentes para aprendizado de topologia em controlador de redes SDN
+42,R439,Generative AI-Driven Enterprise Content Management: A Microservices Framework Leveraging Reinforcement Learning for Scalable and Resilient Financial Systems,2026,10.1109/iccbi68589.2026.11619809,Scopus + IEEE,não,Proposta de gestão de conteúdo financeiro com IA generativa e aprendizado por reforço
+42,R573,End-To-End Cloud Application Cloning with Ditto,2024,10.1109/mm.2024.3419067,Scopus + IEEE,não,Ferramenta de clonagem de aplicações em nuvem (Ditto) para geração de benchmarks
+42,R823,Load Balancing for Interdependent IoT Microservices,2019,10.1109/infocom.2019.8737450,Scopus + IEEE,não,Balanceamento de carga para microsserviços interdependentes em IoT
